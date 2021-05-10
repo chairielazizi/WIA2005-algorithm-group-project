@@ -1,18 +1,50 @@
 import gmplot
+import requests
+import json
+import polyline
 
-apikey = 'AIzaSyBkj8reS92qZ7sEAGzl_Z0fbVL0Zr0k5M4'
+apikey = "insert_apikey_here"
 
-lat, lng = zip(*[
-    (3.0319924887507144, 101.37344116244806),
-    (3.112924170027219, 101.63982650389863),
-    (3.265154613796736, 101.68024844550233),
-    (2.9441205329488325, 101.7901521759029),
-    (3.2127230893650065, 101.57467295692778)
-])
+gmap = gmplot.GoogleMapPlotter(3.104637, 101.581797, zoom=10, apikey=apikey)    # whole map before plotting
 
-courier = ['City-Link Express', 'Poslaju', 'GDEX', 'J&T', 'DHL']
-courierAlpha = ['C', 'P', 'G', 'J', 'D']
+# scatter the markers
+latMark, lngMark = zip(*[(3.3615395462207878, 101.56318183511695), (3.1000170516638885, 101.53071480907951),    # customer 1
+                        (3.049398375759954, 101.58546611160301), (3.227994355250716, 101.42730357605375),       # customer 2
+                        (3.141855957281073, 101.76158583424586), (2.9188704151716256, 101.65251821655471),      # customer 3
+                        (3.0319924887507144, 101.37344116244806), (3.112924170027219, 101.63982650389863), (3.265154613796736, 101.68024844550233),     #courier
+                        (2.9441205329488325, 101.7901521759029), (3.2127230893650065, 101.57467295692778)])     #courier
 
-gmap = gmplot.GoogleMapPlotter(3.209247, 101.524803, 10, apikey=apikey)
-gmap.scatter(lat, lng, color='red', size=50, title=courier, label=courierAlpha)
-gmap.draw("map.html")
+title = ["Customer 1 Origin", "Customer 1 Destination", "Customer 2 Origin", "Customer 2 Destination", "Customer 3 Origin", "Customer 3 Destination",
+            "City-Link Express", "Poslaju", "GDEX", "J&T", "DHL"]
+
+label = ["1", "1", "2", "2", "3", "3", "C", "P", "G", "J", "D"]
+
+gmap.scatter(latMark, lngMark, color="#FF0000", size=50, title=title, label=label)
+
+# plot all 5 routes for each customer
+origin = ["3.3615395462207878,101.56318183511695", "3.049398375759954,101.58546611160301", "3.141855957281073,101.76158583424586"]
+
+destination = ["3.1000170516638885,101.53071480907951", "3.227994355250716,101.42730357605375", "2.9188704151716256,101.65251821655471"]
+
+waypoints = ["3.0319924887507144,101.37344116244806", "3.112924170027219,101.63982650389863", "3.265154613796736,101.68024844550233", 
+                "2.9441205329488325,101.7901521759029", "3.2127230893650065,101.57467295692778"]
+
+colours = ["#008000", "#808000", "#2E8B57", "#90EE90", "#00FF00",   # customer 1
+            "#00008B", "#0000CD", "#6495ED", "#87CEFA", "#1E90FF",  # customer 2
+            "#C71585", "#FF69B4", "#DB7093", "#FF1493", "#FFB6C1"]  # customer 3
+
+k = 0   # initiate colours
+
+for i in range(len(origin)):
+
+        for j in range(len(waypoints)):
+
+                url = ("https://maps.googleapis.com/maps/api/directions/json?&origin={}&destination={}&waypoints={}&key={}"
+                        ).format(origin[i], destination[i], waypoints[j], apikey)
+
+                r = requests.get(url) 
+                latPlot, lngPlot = zip(*polyline.decode(r.json()["routes"][0]["overview_polyline"]["points"]))
+                gmap.plot(latPlot, lngPlot, colours[k], edge_width=7.5)         # plot routes with colours
+                k = k + 1       # change colours
+
+gmap.draw("Problem 1/map.html")   # whole map after plotting
