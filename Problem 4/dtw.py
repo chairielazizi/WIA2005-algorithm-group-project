@@ -8,13 +8,16 @@ jnt_soundwave = jnt.readframes(-1)
 jnt_slow = wave.open("jnt-memohonmaaf-slowed.wav", "r")
 jnt_soundwave_slow = jnt_slow.readframes(-1)
 
-#---------------------------------------------------------------
-#this audio says "jnt perak"
-jnt2 = wave.open("jnt-perak.wav", "r")
-jnt2_soundwave = jnt2.readframes(-1)
+jnt_fast = wave.open("jnt-memohonmaaf-1.5.wav", "r")
+jnt_soundwave_fast = jnt_fast.readframes(-1)
 
-jnt2_slow = wave.open("jnt-perak-slowed.wav", "r")
-jnt2_soundwave_slow = jnt2_slow.readframes(-1)
+#---------------------------------------------------------------
+#this audio says "citylink express"
+citylink = wave.open("citylink.wav", "r")
+citylink_soundwave = citylink.readframes(-1)
+
+citylink_slow = wave.open("citylink-slowed.wav", "r")
+citylink_soundwave_slow = citylink_slow.readframes(-1)
 
 # this is to show just how big the array is 
 jnt_signal_maaf = np.frombuffer(jnt_soundwave, dtype='int16')
@@ -44,11 +47,11 @@ def dtw(s, t):
 print("\nmemohon maaf vs memohon maaf (slowed):")
 print(dtw(jnt_soundwave[:10], jnt_soundwave_slow[:10]))
 
-print("\n\njnt perak vs jnt perak (slowed):")
-print(dtw(jnt2_soundwave[:10], jnt2_soundwave_slow[:10]))
+print("\n\ncitylink express vs citylink express (slowed):")
+print(dtw(citylink_soundwave[:10], citylink_soundwave_slow[:10]))
 
-print("\n\nmemohon maaf vs jnt perak:")
-print(dtw(jnt_soundwave[:10], jnt2_soundwave[:10]))
+print("\n\nmemohon maaf vs citylink express:")
+print(dtw(jnt_soundwave[:10], citylink_soundwave[:10]))
 
 from fastdtw import fastdtw
 from scipy.spatial.distance import euclidean
