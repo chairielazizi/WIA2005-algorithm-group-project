@@ -91,5 +91,6 @@ print(total_list3,"\n")
 
 print("The shortest distance parcel travel from Ampang to Cyberjaya is",total_list3[0],"km")
 
+print('_'*50)
 print("--- %s seconds ---" % (time.time() - start_time))
 
