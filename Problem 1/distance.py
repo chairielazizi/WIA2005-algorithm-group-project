@@ -21,9 +21,9 @@ my_dist3 = gmaps.distance_matrix( oriCus3, desCus3, mode='driving')['rows'][0]['
 result3 = my_dist3/1000
 
   
-print("The distance between Rawang and Bukit Jelutong is",result1, "km")
-print("The distance between Subang Jaya and Puncak Alam is",result2, "km")
-print("The distance between Ampang and Cyberjaya is",result3, "km")
+print("The distance between Rawang and Bukit Jelutong is",result1, "km\n")
+print("The distance between Subang Jaya and Puncak Alam is",result2, "km\n")
+print("The distance between Ampang and Cyberjaya is",result3, "km\n")
 print()
 
 
