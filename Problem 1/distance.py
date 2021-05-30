@@ -3,6 +3,7 @@ import googlemaps
   
 gmaps = googlemaps.Client(key='AIzaSyDBQehfRCytJvvYHu4pelPuRw49m9gzYoc')
 
+#initilize the coordinate of the customers
 oriCus1 = (3.3615395462207878, 101.56318183511695)
 oriCus2 = (3.049398375759954, 101.58546611160301)
 oriCus3 = (3.141855957281073, 101.76158583424586)
@@ -11,6 +12,8 @@ desCus1 = (3.1000170516638885, 101.53071480907951)
 desCus2 = (3.227994355250716, 101.42730357605375)
 desCus3 = (2.9188704151716256, 101.65251821655471)
 
+#to find the distance between two points
+#result1, result2 and result3 are used to convert into km
 my_dist1 = gmaps.distance_matrix( oriCus1, desCus1, mode='driving')['rows'][0]['elements'][0]["distance"]["value"] 
 result1 = my_dist1/1000
 
