@@ -5,7 +5,7 @@ start_time = time.time()
 
 gmaps = googlemaps.Client(key='AIzaSyDBQehfRCytJvvYHu4pelPuRw49m9gzYoc')
 
-
+#sorting the total_list
 def partition(array, low, high):
     
     pivot = array[high]   # choose the rightmost element as pivot
@@ -45,10 +45,12 @@ courierCompany = [(3.0319924887507144, 101.37344116244806), #City-link Express
                   (2.9441205329488325, 101.7901521759029),  #J&T
                   (3.2127230893650065, 101.57467295692778)]  #DHL
                   
-
+#initilize the list
 total_list1=[]
 total_list2=[]
 total_list3=[]
+
+#get distance from 3 points
 for z in courierCompany:
     d1 = gmaps.distance_matrix( oriCus1, z , mode='driving')['rows'][0]['elements'][0]["distance"]["value"] 
     d2 = gmaps.distance_matrix( z , desCus1, mode='driving')['rows'][0]['elements'][0]["distance"]["value"] 
@@ -58,6 +60,8 @@ for z in courierCompany:
     total = result1 + result2
     total_list1.append(total)
     print("Delivery Hubs",z,"=",total,"km")
+    
+#insert quicksort to sort the list    
 quickSort(total_list1, 0, len(total_list1)-1)
 print(total_list1,"\n")
 
