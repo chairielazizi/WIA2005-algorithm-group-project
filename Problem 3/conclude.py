@@ -1,6 +1,9 @@
 import time
 start_time = time.time()
 from timsort import timSort_dict, dictToListOfLists
+import sys
+sys.path.append("../WIA2005-algorithm-group-project/Problem 1") #point path dekat folder Problem 1
+from distanceMerge import findTotalDistance
 
 def sorter(sentiment, distance, cust):
 
@@ -66,40 +69,45 @@ def sorter(sentiment, distance, cust):
     print("\nThe best courier for customer",cust, "is",sort_ranks[0])
     print('_'*50)
 
-distance_c1 = {  # probability of distance for customer 1 
-    'City-Link' : 0.1467310449, 
-    'Pos Laju': 0.2297765471, 
-    'GDEX': 0.237874979, 
-    'J&T': 0.116294138, 
-    'DHL': 0.269323291
-    }
 
-distance_c2 = {  # probability of distance for customer 2 
-    'City-Link' : 0.1884128609, 
-    'Pos Laju': 0.2362863301, 
-    'GDEX': 0.1718736131, 
-    'J&T': 0.124913317, 
-    'DHL': 0.2785138789
-    }
+# to find the probability of distances
+def calculate(dist, sumOf):
+  return (1/dist)/sumOf
 
-distance_c3 = {  # probability of distance for customer 3 
-    'City-Link' : 0.1237852152, 
-    'Pos Laju': 0.2554315503, 
-    'GDEX': 0.1910235285, 
-    'J&T': 0.2640902469, 
-    'DHL': 0.1656694591
-    }
 
-sentiment = {  # cari from question 2. Since ada 3 articles, max value dia 3. Tapi these values are just random for now
-    'City-Link' : 0.217, 
-    'Pos Laju': 1.267, 
-    'GDEX': 2.403, 
-    'J&T': 2.961, 
-    'DHL': 1.820
-    }
+def calculateSum(list):
+  sumList = []
+  for i in range(len(list)):
+    temp = 1/(list[i])
+    sumList.append(temp)
+  
+  return sum(sumList)
 
-sorter(sentiment, distance_c1, 1)
-sorter(sentiment, distance_c2, 2)
-sorter(sentiment, distance_c3, 3)
 
-print("--- %s seconds ---" % (time.time() - start_time))
+if __name__ == "__main__":
+
+    distance_c1, distance_c2, distance_c3 = {}, {}, {}
+    courierName = ["City-Link", "Pos Laju", "GDEX", "J&T", "DHL"]
+
+    total1_list, total2_list, total3_list = findTotalDistance(1), findTotalDistance(2), findTotalDistance(3)
+
+    sum_c1, sum_c2, sum_c3 = calculateSum(total1_list), calculateSum(total2_list), calculateSum(total3_list)
+
+    for i in range(len(courierName)):
+        distance_c1[courierName[i]] = calculate(total1_list[i], sum_c1)
+        distance_c2[courierName[i]] = calculate(total2_list[i], sum_c2)
+        distance_c3[courierName[i]] = calculate(total3_list[i], sum_c3)
+
+    sentiment = {  # cari from question 2. Since ada 3 articles, max value dia 3. Tapi these values are just random for now
+        'City-Link' : 0.217, 
+        'Pos Laju': 1.267, 
+        'GDEX': 2.403, 
+        'J&T': 2.961, 
+        'DHL': 1.820
+        }
+
+    sorter(sentiment, distance_c1, 1)
+    sorter(sentiment, distance_c2, 2)
+    sorter(sentiment, distance_c3, 3)
+
+    print("--- %s seconds ---" % (time.time() - start_time))
