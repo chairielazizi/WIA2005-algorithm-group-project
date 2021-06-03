@@ -2,18 +2,6 @@ import time
 start_time = time.time()
 import googlemaps
 
-# to find the distance between two points
-def findDistance(cust):
-    gmaps = googlemaps.Client(key='AIzaSyDBQehfRCytJvvYHu4pelPuRw49m9gzYoc')
-
-    oriCus = findLocation(cust)
-    desCus = findLocation(cust+3)
-    my_dist = gmaps.distance_matrix(oriCus, desCus, mode='driving')['rows'][0]['elements'][0]["distance"]["value"] 
-    result = my_dist/1000   # to convert into km
-
-    return result
-
-
 # to find the coordinate of the customers origin & destination
 def findLocation(index):
     if index == 1:
@@ -37,6 +25,19 @@ def findLocation(index):
     return location
 
 
+# to find the distance between two points
+def findDistance(cust):
+    gmaps = googlemaps.Client(key='AIzaSyDBQehfRCytJvvYHu4pelPuRw49m9gzYoc')
+
+    oriCus = findLocation(cust)
+    desCus = findLocation(cust+3)
+    my_dist = gmaps.distance_matrix(oriCus, desCus, mode='driving')['rows'][0]['elements'][0]["distance"]["value"] 
+    result = my_dist/1000   # to convert into km
+
+    return result
+
+
+# to find distance between three points    
 def findTotalDistance(cust):
     gmaps = googlemaps.Client(key='AIzaSyDBQehfRCytJvvYHu4pelPuRw49m9gzYoc')
 
@@ -111,19 +112,18 @@ if __name__ == '__main__':
 
     total1_list, total2_list, total3_list = findTotalDistance(1), findTotalDistance(2), findTotalDistance(3)
 
+    #display all distances and insert quicksort to sort the list   
     printTotalDistance(total1_list)
-    printTotalDistance(total2_list)
-    printTotalDistance(total3_list)
-
-    #insert quicksort to sort the list   
     quickSort(total1_list, 0, len(total1_list)-1)
     print(total1_list)
     print("The shortest distance parcel travel from Rawang to Bukit Jelutong is",total1_list[0],"km\n")
 
+    printTotalDistance(total2_list)
     quickSort(total2_list, 0, len(total2_list)-1)
     print(total2_list)
     print("The shortest distance parcel travel from Subang Jaya to Puncak Alam is",total2_list[0],"km\n")
 
+    printTotalDistance(total3_list)
     quickSort(total3_list, 0, len(total3_list)-1)
     print(total3_list)
     print("The shortest distance parcel travel from Ampang to Cyberjaya is",total3_list[0],"km\n")
