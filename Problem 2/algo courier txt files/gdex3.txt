@@ -1,0 +1,1587 @@
+
+<!doctype html>
+<html lang="en">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="Content-Security-Policy" content="block-all-mixed-content">
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <meta name="twitter:site" content="@DigitalNewsAsia">
+  <meta name="twitter:creator" content="@DigitalNewsAsia">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="News Keyword(s)" content="GDEX, Nutanix, Cloud, Hybrid Cloud, E-commerce, Scalability, Enterprise, Avinash Gowda, Teong Teck Lean, Logistics" />
+<script src="https://www.google.com/recaptcha/api.js?hl=en" async="async" defer="defer" type="af65ec5b323243b207ffda2a-text/javascript"></script>
+<link rel="shortcut icon" href="https://www.digitalnewsasia.com/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link href="//use.fontawesome.com/releases/v5.1.0/css/all.css" rel="stylesheet" media="all" type="text/css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin=="anonymous" />
+<meta name="description" content="Malaysian logistics player leverages Nutanix Enterprise Cloud to manage c-commerce demand GDEX enjoys ability to implement rapid scalability to support fluctuating volumes at lower cost" />
+<meta property="og:site_name" content="Digital News Asia" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="GD Express Enhances IT Performance and Scalability with Nutanix" />
+<meta property="og:url" content="https://www.digitalnewsasia.com/business/gd-express-enhances-it-performance-and-scalability-nutanix" />
+<meta property="og:description" content="Malaysian logistics firm taps Nutanix Enterprise Cloud to manage e-commerce demand GDEX able to implement rapid scalability to support fluctuating volumes at lower cost Nutanix, a leader in in private cloud, hybrid, and multicloud computing, announced last week that Malaysian logistics and express carrier provider GD Express (GDEX) has adopted Nutanix Hybrid Cloud to keep pace with the fast changing demands in E-commerce. Since implementation, the technology upgrade has helped GDEX achieve a threefold increase in business transactions." />
+<meta property="og:updated_time" content="2020-12-09T18:00:03+08:00" />
+<meta name="image" property="og:image" content="https://www.digitalnewsasia.com/sites/default/files/styles/social_media_share/public/GDEX-visuals.jpg?itok=6_SED3fL" />
+<meta property="og:image:url" content="https://www.digitalnewsasia.com/sites/default/files/styles/social_media_share/public/GDEX-visuals.jpg?itok=6_SED3fL" />
+<meta property="og:image:secure_url" content="https://www.digitalnewsasia.com/sites/default/files/styles/social_media_share/public/GDEX-visuals.jpg?itok=6_SED3fL" />
+<meta property="og:image:width" content="630" />
+<meta property="og:image:height" content="315" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@DigitalNewsAsia" />
+<meta name="twitter:url" content="https://www.digitalnewsasia.com/business/gd-express-enhances-it-performance-and-scalability-nutanix" />
+<meta name="twitter:title" content="GD Express Enhances IT Performance and Scalability with Nutanix" />
+<meta name="twitter:description" content="Malaysian logistics firm taps Nutanix Enterprise Cloud to manage e-commerce demand GDEX able to implement rapid scalability to support fluctuating volumes at lower cost Nutanix, a leader in in" />
+<meta name="twitter:image" content="https://www.digitalnewsasia.com/sites/default/files/styles/social_media_share/public/GDEX-visuals.jpg?itok=6_SED3fL" />
+<meta name="twitter:image:width" content="630" />
+<meta name="twitter:image:height" content="315" />
+<meta name="twitter:image:alt" content="Digital News Asia" />
+<meta property="article:published_time" content="2020-12-09T15:37:01+08:00" />
+<meta property="article:modified_time" content="2020-12-09T18:00:03+08:00" />
+  <title>GD Express Enhances IT Performance and Scalability with Nutanix | Digital News Asia</title>
+  <link type="text/css" rel="stylesheet" href="https://www.digitalnewsasia.com/sites/default/files/css/css_rEI_5cK_B9hB4So2yZUtr5weuEV3heuAllCDE6XsIkI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.digitalnewsasia.com/sites/default/files/css/css_v0RZ1SKQiMFLo_ofw4DUHMW06prqkeypAH6ph8FkMf8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.digitalnewsasia.com/sites/default/files/css/css_J2wbv9LXq_vNql5SbIWDADey6Kvj0DgOBcV_rykY_40.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.digitalnewsasia.com/sites/default/files/css/css_zxUR6O9DOUW9GxttoT5E3ux5y_rb6fGMR1VxXkZu3Kk.css" media="all" />
+  
+  <script type="af65ec5b323243b207ffda2a-text/javascript">
+  (function() {
+      var useSSL = 'https:' == document.location.protocol;
+      var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+      document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+  </script>
+  <script type="af65ec5b323243b207ffda2a-text/javascript">
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+  </script>
+  <script type="af65ec5b323243b207ffda2a-text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-31829104-1";
+//--><!]]>
+</script>
+<script type="af65ec5b323243b207ffda2a-text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="af65ec5b323243b207ffda2a-text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.9/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="af65ec5b323243b207ffda2a-text/javascript" src="https://www.digitalnewsasia.com/sites/default/files/js/js_38VWQ3jjQx0wRFj7gkntZr077GgJoGn5nv3v05IeLLo.js"></script>
+<script type="af65ec5b323243b207ffda2a-text/javascript" src="https://www.digitalnewsasia.com/sites/default/files/js/js_duPj3f06pLAOtT1z67a5NtrcRv0EeIzWJ7nJTnJ50pQ.js"></script>
+<script type="af65ec5b323243b207ffda2a-text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-31829104-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("require", "displayfeatures");ga("set", "anonymizeIp", true);ga("set", "dimension1", "ADS BLOCKED");// Creates an adblock detection plugin.
+ga('provide', 'adblockTracker', function(tracker, opts) {
+  var ad = document.createElement('ins');
+  ad.className = 'AdSense';
+  ad.style.display = 'block';
+  ad.style.position = 'absolute';
+  ad.style.top = '-1px';
+  ad.style.height = '1px';
+  document.body.appendChild(ad);
+  tracker.set('dimension' + opts.dimensionIndex, !ad.clientHeight);
+  document.body.removeChild(ad);
+});
+ga('require', 'adblockTracker', {dimensionIndex: 1});ga("set", "page", location.pathname + location.search + location.hash);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="af65ec5b323243b207ffda2a-text/javascript">
+<!--//--><![CDATA[//><!--
+window.a2a_config=window.a2a_config||{};window.da2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='https://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);da2a.script_load=function(){};},script_onready:function(){da2a.script_ready=true;if(da2a.html_done)da2a.init();},init:function(){for(var i=0,el,target,targets=da2a.targets,length=targets.length;i<length;i++){el=document.getElementById('da2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}da2a.done=true;}da2a.targets=[];}};(function ($){Drupal.behaviors.addToAny = {attach: function (context, settings) {if (context !== document && window.da2a) {if(da2a.script_ready)a2a.init_all();da2a.script_load();}}}})(jQuery);a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:da2a.script_onready});a2a_config.overlays=a2a_config.overlays||[];a2a_config.templates=a2a_config.templates||{};a2a_config.exclude_services = ["pinterest"];
+a2a_config.counts = { recover_protocol: 'http' };
+a2a_config.callbacks.push({
+    share: function(share_data) {
+       //console.log(share_data);
+        // The shared URL
+        var old_url = share_data.url;
+        // Initialize new shared URL
+        var new_url = old_url;
+
+        // Add fragment identifier if not already added to the shared URL
+        if (share_data.service == "Facebook") {
+            new_url = old_url + "?fbrefresh=4186";
+        }
+
+        // Modify the share by returning an object
+        // with a "url" property containing the new URL
+        if (new_url != old_url) {
+            return {
+                url: new_url
+            };
+        }
+    }
+});
+//--><!]]>
+</script>
+<script type="af65ec5b323243b207ffda2a-text/javascript" src="https://www.digitalnewsasia.com/sites/default/files/js/js_OWl4DOyzdXTojMpOscC4ewJ-YfWZrfYV5rfuhmFhG7U.js"></script>
+<script type="af65ec5b323243b207ffda2a-text/javascript" src="https://www.digitalnewsasia.com/sites/default/files/js/js_whN_jZyFkCoDL3OWBV8vMKICNEn_MLJYAWMH81AyWj4.js"></script>
+<script type="af65ec5b323243b207ffda2a-text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dna_v3","theme_token":"qfESQmAVQyQ-NMwdh22dZLILZ70vObBWrYnWZEXNidE","js":{"modules\/statistics\/statistics.js":1,"0":1,"sites\/all\/themes\/dna_v3\/js\/scripts.js":1,"1":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.9.1\/jquery.min.js":1,"2":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/dropdown_login\/theme\/dropdown_login.js":1,"sites\/all\/modules\/image_caption\/image_caption_dna.js":1,"public:\/\/jstimer\/timer.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"sites\/all\/modules\/captcha\/captcha.js":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/js\/responsive_menus_simple.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"3":1,"4":1,"sites\/all\/themes\/dna_v3\/js\/dfpsync.js":1,"sites\/all\/themes\/dna_v3\/js\/bootstrap.bundle.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"sites\/all\/modules\/simplenews\/simplenews.css":1,"modules\/user\/user.css":1,"sites\/all\/libraries\/colorbox\/example1\/colorbox.css":1,"sites\/all\/modules\/custompage\/custompage.css":1,"sites\/all\/modules\/dropdown_login\/theme\/dropdown_login.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/tb_megamenu\/css\/compatibility.css":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/css\/responsive_menus_simple.css":1,"sites\/all\/modules\/addtoany\/addtoany.css":1,"sites\/all\/themes\/dna_v3\/css\/tbmegamenu.css":1,"sites\/all\/themes\/dna_v3\/css\/bootstrap.min.css":1,"sites\/all\/themes\/dna_v3\/css\/style.css":1,"sites\/all\/themes\/dna_v3\/css\/media-query.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":true,"slideshowAuto":false,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"returnFocus":true,"maxWidth":"100%","maxHeight":"100%","initialWidth":"400","initialHeight":"100","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"urlIsAjaxTrusted":{"\/business\/gd-express-enhances-it-performance-and-scalability-nutanix":true},"responsive_menus":[{"toggler_text":"\u2630 Menu","selectors":["#main-menu"],"media_size":"768","media_unit":"px","absolute":"1","remove_attributes":"1","responsive_menus_style":"responsive_menus_simple"}],"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip|pdf","trackColorbox":1,"trackUrlFragments":1},"statistics":{"data":{"nid":"72683"},"url":"\/modules\/statistics\/statistics.php"}});
+//--><!]]>
+</script>
+  <script type="af65ec5b323243b207ffda2a-text/javascript"> 
+    var $jq = jQuery.noConflict(); 
+  </script> 
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-72683 node-type-article" >
+
+	<div id="skip-link">
+		<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+	</div>
+
+	<!-- START REGION page_top -->
+<div class="region region-page-top">
+</div>
+<!-- END REGION page_top -->
+	<!-- START PAGE ARTICLE TEMPLATE -->
+
+<!-- start top_navigation content -->
+
+<section class="sticky-top section-top-nav dna-nav d-none d-md-block d-lg-block d-xl-block">
+  <div class="container-fluid">
+    <div class="row no-gutters">
+      <div class="col-12">
+        <nav class="bg-dark nav nav-fill top-nav-container">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <!-- START REGION top_navigation -->
+<div class="region region-top-navigation">
+  <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-tb-megamenu-menu-top-navigation-menu" class="block block-tb-megamenu">
+            
+            
+            
+      <div class="block-content">
+        <div  class="tb-megamenu tb-megamenu-menu-top-navigation-menu">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+      <i class="icon-reorder"></i>
+    </button>
+    <div class="nav-collapse collapse always-show">
+    <ul  class="tb-megamenu-nav nav level-0 items-10">
+  <li  data-id="17848" data-level="1" data-type="menu_item nav-item" data-class="navbar-brand logo col-2" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega navbar-brand logo col-2 nav-item">
+  <a href="/" class="">
+        
+    Home          </a>
+  </li>
+
+<li  data-id="17849" data-level="1" data-type="menu_item nav-item" data-class="" data-xicon="" data-caption="" data-alignsub="justify" data-group="0" data-hidewcol="1" data-hidesub="0" class="tb-megamenu-item level-1 mega mega-align-justify sub-hidden-collapse dropdown nav-item">
+  <a href="/digital-economy" class="dropdown-toggle">
+        
+    Digital Economy<br>powered by 'MDEC'          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row  row no-gutters">
+  <div data-showblocktitle="0" data-class="" data-width="8" data-hidewcol="1" id="tb-megamenu-column-3" class="tb-megamenu-column col-8  mega-col-nav  hidden-collapse">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--7a24c2a0f0481371e3f0d2dcfcdab589" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-views-7a24c2a0f0481371e3f0d2dcfcdab589--2" class="block block-views">
+            
+            
+            
+      <div class="block-content">
+        <div class="view view-tbmegamenu-submenu-blocks-v3- view-id-tbmegamenu_submenu_blocks_v3_ view-display-id-block_14 view-dom-id-bf2c505540834a7afd107f39ae50b8cd">
+        
+  
+  
+      <div class="view-content">
+        <div class="megamenu-main-inner-content">
+      
+  <div>        <div class="col-12"><div class="megamenu-inner-image"><a href="/digital-economy/selangor-takes-it-next-level-sidec"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/Go-Digital-Sidec.jpg" alt="Selangor takes it to the next level with Sidec" class="img-fluid border" title="Selangor takes it to the next level with Sidec"></a></div></div>
+<div class="col -12">
+        <h5 class="megamenu-inner-title"><a href="/digital-economy/selangor-takes-it-next-level-sidec">Selangor takes it to the next level with Sidec</a></h5> 
+        <div class="megamenu-inner-author-date"><a href="/author/karamjit-singh" title="View all articles by Karamjit Singh">By Karamjit Singh May 25, 2021</a></div>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe -->  </div>
+</div>
+  </div>
+</div>
+
+<div data-showblocktitle="0" data-class="" data-width="4" data-hidewcol="1" id="tb-megamenu-column-4" class="tb-megamenu-column col-4  mega-col-nav  hidden-collapse">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--37235bef829f4d5c5ea8e08f7a30dd1a" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-views-37235bef829f4d5c5ea8e08f7a30dd1a--2" class="block block-views">
+            
+            
+            
+      <div class="block-content">
+        <div class="view view-tbmegamenu-submenu-blocks-v3- view-id-tbmegamenu_submenu_blocks_v3_ view-display-id-block_15 view-dom-id-de3538f7ee50acd79b36f16f4b284622">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row-odd views-row-first">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/digital-economy/unlocking-leadership-capabilities-digital-transformation-journey"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/Digital-Transformation.jpg?itok=1TkCg5mu" alt="Unlocking leadership capabilities in the digital transformation journey" class="img-fluid border" title="Unlocking leadership capabilities in the digital transformation journey"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/digital-economy/unlocking-leadership-capabilities-digital-transformation-journey">Unlocking leadership capabilities in the digital transformation journey</a></h6>
+         <small class="author-date"><a href="/author/murugappan-subramaniam-and-prof-dr-vinesh-thiruchelvam" title="View all articles by Murugappan Subramaniam and Prof Dr Vinesh Thiruchelvam">By Murugappan Subramaniam and Prof Dr Vinesh Thiruchelvam  May 24, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-even">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/digital-economy/ecf-sector-continues-momentum-pitchin-leading-way"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/pitchIn%20AR%202020.jpg?itok=fd4CAAfJ" alt="ECF sector continues momentum with pitchIN leading way" class="img-fluid border" title="ECF sector continues momentum with pitchIN leading way"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/digital-economy/ecf-sector-continues-momentum-pitchin-leading-way">ECF sector continues momentum with pitchIN leading way</a></h6>
+         <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia  May 19, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-odd">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/digital-economy/mdec-strengthen-digitalisation-efforts-line-msia-gdp-performance"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/MDEC.jpg?itok=ilbZXr8w" alt="MDEC to strengthen digitalisation efforts in line with M'sia GDP performance" class="img-fluid border" title="MDEC to strengthen digitalisation efforts in line with M'sia GDP performance"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/digital-economy/mdec-strengthen-digitalisation-efforts-line-msia-gdp-performance">MDEC to strengthen digitalisation efforts in line with M'sia GDP performance</a></h6>
+         <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia  May 19, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-even views-row-last">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/digital-economy/introducing-nadi-digital-economy-malaysia"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/Karamjit-WiR_3.jpg?itok=Ivq-i2ae" alt="Introducing Nadi Digital Economy Malaysia" class="img-fluid border" title="Introducing Nadi Digital Economy Malaysia"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/digital-economy/introducing-nadi-digital-economy-malaysia">Introducing Nadi Digital Economy Malaysia</a></h6>
+         <small class="author-date"><a href="/author/karamjit-singh" title="View all articles by Karamjit Singh">By Karamjit Singh  May 16, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/digital-economy">
+    View More  </a>
+</div>
+  
+  
+  
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe -->  </div>
+</div>
+  </div>
+</div>
+</div>
+
+  </div>
+</div>
+</li>
+
+<li  data-id="17850" data-level="1" data-type="menu_item nav-item" data-class="" data-xicon="" data-caption="" data-alignsub="justify" data-group="0" data-hidewcol="1" data-hidesub="0" class="tb-megamenu-item level-1 mega mega-align-justify sub-hidden-collapse dropdown nav-item">
+  <a href="/insights" class="dropdown-toggle">
+        
+    Insights          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row  row no-gutters">
+  <div data-showblocktitle="0" data-class="" data-width="8" data-hidewcol="1" id="tb-megamenu-column-7" class="tb-megamenu-column col-8  mega-col-nav  hidden-collapse">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--a448b9e75e2eba4137495f9449fb83d0" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-views-a448b9e75e2eba4137495f9449fb83d0--2" class="block block-views">
+            
+            
+            
+      <div class="block-content">
+        <div class="view view-tbmegamenu-submenu-blocks-v3- view-id-tbmegamenu_submenu_blocks_v3_ view-display-id-block_16 view-dom-id-1978cb3a70aaf725816823415875be0c">
+        
+  
+  
+      <div class="view-content">
+        <div class="megamenu-main-inner-content">
+      
+  <div>        <div class="col-12"><div class="megamenu-inner-image"><a href="/insights/how-build-vaccine-registration-system-dont"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/Vaccine-reservation-system.jpg" alt="How to build the vaccine registration system &acirc;&#128;&#147; Don&acirc;&#128;&#153;t!" class="img-fluid border" title="How to build the vaccine registration system &acirc;&#128;&#147; Don&acirc;&#128;&#153;t!"></a></div></div>
+<div class="col -12">
+        <h5 class="megamenu-inner-title"><a href="/insights/how-build-vaccine-registration-system-dont">How to build the vaccine registration system &ndash; Don&rsquo;t!</a></h5> 
+        <div class="megamenu-inner-author-date"><a href="/author/ir-dr-shawn-tan" title="View all articles by Ir Dr Shawn Tan">By Ir Dr Shawn Tan May 27, 2021</a></div>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe -->  </div>
+</div>
+  </div>
+</div>
+
+<div data-showblocktitle="0" data-class="" data-width="4" data-hidewcol="1" id="tb-megamenu-column-8" class="tb-megamenu-column col-4  mega-col-nav  hidden-collapse">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--db5c72c4500fb052d9511eaac84bc883" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-views-db5c72c4500fb052d9511eaac84bc883--2" class="block block-views">
+            
+            
+            
+      <div class="block-content">
+        <div class="view view-tbmegamenu-submenu-blocks-v3- view-id-tbmegamenu_submenu_blocks_v3_ view-display-id-block_17 view-dom-id-ccd5a995671a5ca088c6ffc3123f734e">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row-odd views-row-first">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/insights/bread-kaya-27-cyberlaw-covid-19-era-pt3"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/foong_cheng_loong.jpg?itok=iFt17pcE" alt="Bread &amp; Kaya 27: Cyberlaw in the Covid-19 Era Pt3" class="img-fluid border" title="Bread &amp; Kaya 27: Cyberlaw in the Covid-19 Era Pt3"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/insights/bread-kaya-27-cyberlaw-covid-19-era-pt3">Bread &amp; Kaya 27: Cyberlaw in the Covid-19 Era Pt3</a> </h6>
+        <small class="author-date"><a href="/author/foong-cheng-leong" title="View all articles by Foong Cheng Leong">By Foong Cheng Leong May 3, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-even">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/insights/will-malaysias-single-wholesale-5g-network-gamble-pay"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/5G%20concept_5.jpg?itok=4jpGZ0s9" alt="Will Malaysia&acirc;&#128;&#153;s single wholesale 5G network gamble pay off?" class="img-fluid border" title="Will Malaysia&acirc;&#128;&#153;s single wholesale 5G network gamble pay off?"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/insights/will-malaysias-single-wholesale-5g-network-gamble-pay">Will Malaysia&rsquo;s single wholesale 5G network gamble pay off?</a> </h6>
+        <small class="author-date"><a href="/author/edwin-yapp" title="View all articles by Edwin Yapp">By Edwin Yapp April 30, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-odd">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/insights/bread-kaya-27-cyberlaw-cases-covid-19-era-pt2"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/Foong-Cheng-Loong_1.jpg?itok=x2fGhTRY" alt="Bread &amp; Kaya 27: Cyberlaw cases in the Covid-19 Era, Pt2" class="img-fluid border" title="Bread &amp; Kaya 27: Cyberlaw cases in the Covid-19 Era, Pt2"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/insights/bread-kaya-27-cyberlaw-cases-covid-19-era-pt2">Bread &amp; Kaya 27: Cyberlaw cases in the Covid-19 Era, Pt2</a> </h6>
+        <small class="author-date"><a href="/author/foong-cheng-leong" title="View all articles by Foong Cheng Leong">By Foong Cheng Leong April 29, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-even views-row-last">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/insights/malaysias-single-wholesale-5g-network-gambit-draws-critical-questions"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/5G_3.png?itok=X03wRxX8" alt="Malaysia&acirc;&#128;&#153;s single wholesale 5G network gambit draws critical questions" class="img-fluid border" title="Malaysia&acirc;&#128;&#153;s single wholesale 5G network gambit draws critical questions"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/insights/malaysias-single-wholesale-5g-network-gambit-draws-critical-questions">Malaysia&rsquo;s single wholesale 5G network gambit draws critical questions</a> </h6>
+        <small class="author-date"><a href="/author/edwin-yapp" title="View all articles by Edwin Yapp">By Edwin Yapp April 28, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/insights">
+    View More  </a>
+</div>
+  
+  
+  
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe -->  </div>
+</div>
+  </div>
+</div>
+</div>
+
+  </div>
+</div>
+</li>
+
+<li  data-id="17851" data-level="1" data-type="menu_item nav-item" data-class="" data-xicon="" data-caption="" data-alignsub="justify" data-group="0" data-hidewcol="1" data-hidesub="0" class="tb-megamenu-item level-1 mega mega-align-justify sub-hidden-collapse dropdown nav-item">
+  <a href="/business" class="dropdown-toggle">
+        
+    'Software Testing is'<br>Business          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row  row no-gutters">
+  <div data-showblocktitle="0" data-class="" data-width="8" data-hidewcol="1" id="tb-megamenu-column-11" class="tb-megamenu-column col-8  mega-col-nav  hidden-collapse">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--cb29b7564d70800a38e7090ef1946150" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-views-cb29b7564d70800a38e7090ef1946150--2" class="block block-views">
+            
+            
+            
+      <div class="block-content">
+        <div class="view view-tbmegamenu-submenu-blocks-v3- view-id-tbmegamenu_submenu_blocks_v3_ view-display-id-block_18 view-dom-id-9dd46955b2f6e8aee3717196856f65bb">
+        
+  
+  
+      <div class="view-content">
+        <div class="megamenu-main-inner-content">
+      
+  <div>        <div class="col-12"><div class="megamenu-inner-image"><a href="/business/maxis-offers-enterprise-grade-backup-solution-commvault"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/Maxis-BaaS.jpg" alt="Maxis offers enterprise grade backup solution via CommVault" class="img-fluid border" title="Maxis offers enterprise grade backup solution via CommVault"></a></div></div>
+<div class="col -12">
+        <h5 class="megamenu-inner-title"><a href="/business/maxis-offers-enterprise-grade-backup-solution-commvault">Maxis offers enterprise grade backup solution via CommVault</a></h5> 
+        <div class="megamenu-inner-author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia May 27, 2021</a></div>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe -->  </div>
+</div>
+  </div>
+</div>
+
+<div data-showblocktitle="0" data-class="" data-width="4" data-hidewcol="1" id="tb-megamenu-column-12" class="tb-megamenu-column col-4  mega-col-nav  hidden-collapse">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--3034136ecf5637f1d3621eef677cb65b" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-views-3034136ecf5637f1d3621eef677cb65b--2" class="block block-views">
+            
+            
+            
+      <div class="block-content">
+        <div class="view view-tbmegamenu-submenu-blocks-v3- view-id-tbmegamenu_submenu_blocks_v3_ view-display-id-block_19 view-dom-id-a24fe95c2116a96331e3b6757608b12c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row-odd views-row-first">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/business/lenovo-isg-appoints-two-experienced-execs-apac-leadership"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/Sinisa%20Nikolic%20and%20Kumar%20Mitra.png?itok=hAa7cMGD" alt="Lenovo ISG appoints two experienced execs to Apac leadership" class="img-fluid border" title="Lenovo ISG appoints two experienced execs to Apac leadership"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/business/lenovo-isg-appoints-two-experienced-execs-apac-leadership">Lenovo ISG appoints two experienced execs to Apac leadership</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia May 27, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-even">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/business/axiata-sees-encouraging-start-year-its-q121-results"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/Axiata-office.jpg?itok=wTcdkWiu" alt="Axiata sees encouraging start to the year in its Q121 results" class="img-fluid border" title="Axiata sees encouraging start to the year in its Q121 results"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/business/axiata-sees-encouraging-start-year-its-q121-results">Axiata sees encouraging start to the year in its Q121 results</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia May 26, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-odd">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/business/edgepoint-acquires-asiaspace-become-edgepoint-towers"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/AsiaspaceBroadBand-mobile.jpg?itok=6iOKqnow" alt="EdgePoint acquires Asiaspace, to become EdgePoint Towers" class="img-fluid border" title="EdgePoint acquires Asiaspace, to become EdgePoint Towers"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/business/edgepoint-acquires-asiaspace-become-edgepoint-towers">EdgePoint acquires Asiaspace, to become EdgePoint Towers</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia May 25, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-even views-row-last">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/business/exabytes-penang-govt-partner-boost-youth-digitalisation-skills"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/Soon-Lip-Chee%20.jpg?itok=aeQ77QfU" alt="Exabytes, Penang govt partner to boost youth digitalisation skills" class="img-fluid border" title="Exabytes, Penang govt partner to boost youth digitalisation skills"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/business/exabytes-penang-govt-partner-boost-youth-digitalisation-skills">Exabytes, Penang govt partner to boost youth digitalisation skills</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia May 25, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/business">
+    View More  </a>
+</div>
+  
+  
+  
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe -->  </div>
+</div>
+  </div>
+</div>
+</div>
+
+  </div>
+</div>
+</li>
+
+<li  data-id="17852" data-level="1" data-type="menu_item nav-item" data-class="" data-xicon="" data-caption="" data-alignsub="justify" data-group="0" data-hidewcol="1" data-hidesub="0" class="tb-megamenu-item level-1 mega mega-align-justify sub-hidden-collapse dropdown nav-item">
+  <a href="/personaltech" class="dropdown-toggle">
+        
+    Personal<br>Tech          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row  row no-gutters">
+  <div data-showblocktitle="0" data-class="" data-width="8" data-hidewcol="1" id="tb-megamenu-column-15" class="tb-megamenu-column col-8  mega-col-nav  hidden-collapse">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--6eb3338411bfe842b6a010da14e3cb02" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-views-6eb3338411bfe842b6a010da14e3cb02--2" class="block block-views">
+            
+            
+            
+      <div class="block-content">
+        <div class="view view-tbmegamenu-submenu-blocks-v3- view-id-tbmegamenu_submenu_blocks_v3_ view-display-id-block_24 view-dom-id-fb5f4d62192fa33ab8c771f58e227336">
+        
+  
+  
+      <div class="view-content">
+        <div class="megamenu-main-inner-content">
+      
+  <div>        <div class="col-12"><div class="megamenu-inner-image"><a href="/personal-tech/dell-announces-new-xps-alienware-devices"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/Alienware-x17.png" alt="Dell announces new XPS, Alienware devices" class="img-fluid border" title="Dell announces new XPS, Alienware devices"></a></div></div>
+<div class="col -12">
+        <h5 class="megamenu-inner-title"><a href="/personal-tech/dell-announces-new-xps-alienware-devices">Dell announces new XPS, Alienware devices</a></h5> 
+        <div class="megamenu-inner-author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia May 19, 2021</a> </div>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe -->  </div>
+</div>
+  </div>
+</div>
+
+<div data-showblocktitle="0" data-class="" data-width="4" data-hidewcol="1" id="tb-megamenu-column-16" class="tb-megamenu-column col-4  mega-col-nav  hidden-collapse">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--d1cabb1f2e881f536b6a1d9d6a1bc4cd" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-views-d1cabb1f2e881f536b6a1d9d6a1bc4cd--2" class="block block-views">
+            
+            
+            
+      <div class="block-content">
+        <div class="view view-tbmegamenu-submenu-blocks-v3- view-id-tbmegamenu_submenu_blocks_v3_ view-display-id-block_25 view-dom-id-099f08d86e625ac9c691be73a5e46377">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row-odd views-row-first">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/personal-tech/oneplus-9-series-officially-arrives-malaysia"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/OnePlus9launch.jpg?itok=1lE8Tee2" alt="OnePlus 9 series officially arrives in Malaysia" class="img-fluid border" title="OnePlus 9 series officially arrives in Malaysia"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/personal-tech/oneplus-9-series-officially-arrives-malaysia">OnePlus 9 series officially arrives in Malaysia</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia May 18, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-even">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/personal-tech/garmin-launches-approach-s12-golfing-smartwatch"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/Garmin-Approach-S12.jpg?itok=U9DPTlak" alt="Garmin launches Approach S12 golfing smartwatch" class="img-fluid border" title="Garmin launches Approach S12 golfing smartwatch"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/personal-tech/garmin-launches-approach-s12-golfing-smartwatch">Garmin launches Approach S12 golfing smartwatch</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia May 17, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-odd">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/personal-tech/oppo-a74-5g-launch-exclusively-shopee"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/Oppo-A74-5G-Shopee.jpg?itok=1xWWuo1I" alt="Oppo A74 5G to launch exclusively on Shopee" class="img-fluid border" title="Oppo A74 5G to launch exclusively on Shopee"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/personal-tech/oppo-a74-5g-launch-exclusively-shopee">Oppo A74 5G to launch exclusively on Shopee</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia May 3, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-even views-row-last">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/personal-tech/razer-launches-orochi-v2-wireless-gaming-mouse"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/Razer-Orochi-V2.png?itok=dNYyRdje" alt="Razer launches the Orochi V2 wireless gaming mouse" class="img-fluid border" title="Razer launches the Orochi V2 wireless gaming mouse"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/personal-tech/razer-launches-orochi-v2-wireless-gaming-mouse">Razer launches the Orochi V2 wireless gaming mouse</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia April 30, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/personaltech">
+    View More  </a>
+</div>
+  
+  
+  
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe -->  </div>
+</div>
+  </div>
+</div>
+</div>
+
+  </div>
+</div>
+</li>
+
+<li  data-id="22954" data-level="1" data-type="menu_item nav-item" data-class="" data-xicon="" data-caption="" data-alignsub="justify" data-group="0" data-hidewcol="1" data-hidesub="0" class="tb-megamenu-item level-1 mega mega-align-justify sub-hidden-collapse dropdown nav-item">
+  <a href="/digital-lab" class="dropdown-toggle">
+        
+    National Digital<br>Infrastructure Lab          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row  row no-gutters">
+  <div data-showblocktitle="0" data-class="" data-width="8" data-hidewcol="1" id="tb-megamenu-column-19" class="tb-megamenu-column col-8  mega-col-nav  hidden-collapse">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--82e83cd2d14ac0b8ee36302112191bac" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-views-82e83cd2d14ac0b8ee36302112191bac--2" class="block block-views">
+            
+            
+            
+      <div class="block-content">
+        <div class="view view-tbmegamenu-submenu-blocks-v3- view-id-tbmegamenu_submenu_blocks_v3_ view-display-id-block_mm_nfcp_main view-dom-id-79f66cae988189cb97586d69a868b313">
+        
+  
+  
+      <div class="view-content">
+        <div class="megamenu-main-inner-content">
+      
+  <div>        <div class="col-12"><div class="megamenu-inner-image"><a href="/national-digital-infrastructure-lab/covid-19-life-enterprise-world-during-new-normal"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/smart_agriculture_precision_farming.jpg" alt="COVID-19: Life in the enterprise world during the new normal" class="img-fluid border" title="COVID-19: Life in the enterprise world during the new normal"></a></div></div>
+<div class="col -12">
+        <h5 class="megamenu-inner-title"><a href="/national-digital-infrastructure-lab/covid-19-life-enterprise-world-during-new-normal">COVID-19: Life in the enterprise world during the new normal</a></h5> 
+        <div class="megamenu-inner-author-date"><a href="/author/edwin-yapp" title="View all articles by Edwin Yapp">By Edwin Yapp June 15, 2020</a> </div>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe -->  </div>
+</div>
+  </div>
+</div>
+
+<div data-showblocktitle="0" data-class="" data-width="4" data-hidewcol="1" id="tb-megamenu-column-20" class="tb-megamenu-column col-4  mega-col-nav  hidden-collapse">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--e6841022f3aa1c5a8918befa85bfa874" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-views-e6841022f3aa1c5a8918befa85bfa874--2" class="block block-views">
+            
+            
+            
+      <div class="block-content">
+        <div class="view view-tbmegamenu-submenu-blocks-v3- view-id-tbmegamenu_submenu_blocks_v3_ view-display-id-block_mm_digital_lab_inner_others view-dom-id-b2773707a1cd7c4dba503d1886746b38">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row-odd views-row-first">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/digital-economy/no-impact-broadband-internet-infrastructure-during-mco-mcmc"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/Al-Ishsal%20Ishak%2C%20MCMC%20chairman%20head%20shot_1.png?itok=kb8wypaz" alt="Minimal impact to broadband, Internet infrastructure during MCO: MCMC Chairman" class="img-fluid border" title="Minimal impact to broadband, Internet infrastructure during MCO: MCMC Chairman"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/digital-economy/no-impact-broadband-internet-infrastructure-during-mco-mcmc">Minimal impact to broadband, Internet infrastructure during MCO: MCMC Chairman</a> </h6>
+        <small class="author-date"><a href="/author/edwin-yapp" title="View all articles by Edwin Yapp">By Edwin Yapp April 18, 2020</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-even">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/digital-economy/mcmc-hails-no-one-left-behind-economic-stimulus-package"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/MCMC%20HQ_4.png?itok=u1hOkdq5" alt="MCMC hails no-one-left-behind economic stimulus package" class="img-fluid border" title="MCMC hails no-one-left-behind economic stimulus package"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/digital-economy/mcmc-hails-no-one-left-behind-economic-stimulus-package">MCMC hails no-one-left-behind economic stimulus package</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia March 30, 2020</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-odd">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/digital-economy/eye-ball-mcmc-swings-fences-5g"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/MIER%20study%20on%205G%20Economic%20Impact.png?itok=lmGqbvhN" alt="Eye on the ball, MCMC swings for the fences with 5G" class="img-fluid border" title="Eye on the ball, MCMC swings for the fences with 5G"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/digital-economy/eye-ball-mcmc-swings-fences-5g">Eye on the ball, MCMC swings for the fences with 5G</a> </h6>
+        <small class="author-date"><a href="/author/karamjit-singh" title="View all articles by Karamjit Singh">By Karamjit Singh January 13, 2020</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-even views-row-last">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/digital-economy/mcmc-charts-major-milestones-2019-enhance-malaysias-digitalisation-and-connectivity"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/Al-Ishsal%20Ishak%2C%20MCMC%20chairman.png?itok=9l4NO2Dj" alt="MCMC charts major milestones of 2019 to enhance Malaysia&acirc;&#128;&#153;s digitalisation and connectivity" class="img-fluid border" title="MCMC charts major milestones of 2019 to enhance Malaysia&acirc;&#128;&#153;s digitalisation and connectivity"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/digital-economy/mcmc-charts-major-milestones-2019-enhance-malaysias-digitalisation-and-connectivity">MCMC charts major milestones of 2019 to enhance Malaysia&rsquo;s digitalisation and connectivity</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia January 3, 2020</a></small>
+    </div>
+</div>
+  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/digital-lab">
+    View More  </a>
+</div>
+  
+  
+  
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe -->  </div>
+</div>
+  </div>
+</div>
+</div>
+
+  </div>
+</div>
+</li>
+
+<li  data-id="21424" data-level="1" data-type="menu_item nav-item" data-class="" data-xicon="" data-caption="" data-alignsub="justify" data-group="0" data-hidewcol="1" data-hidesub="0" class="tb-megamenu-item level-1 mega mega-align-justify sub-hidden-collapse dropdown nav-item">
+  <a href="/entrepreneurial-nation" class="dropdown-toggle">
+        
+    Entrepreneurial<br>Nation<span class="sp-menu-suffix sp-magic">by MaGIC</span>          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row  row no-gutters">
+  <div data-showblocktitle="0" data-class="" data-width="8" data-hidewcol="1" id="tb-megamenu-column-23" class="tb-megamenu-column col-8  mega-col-nav  hidden-collapse">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--db92fd403dcd9011ace437cfc81bb1d9" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-views-db92fd403dcd9011ace437cfc81bb1d9--2" class="block block-views">
+            
+            
+            
+      <div class="block-content">
+        <div class="view view-tbmegamenu-submenu-blocks-v3- view-id-tbmegamenu_submenu_blocks_v3_ view-display-id-block_mm_en_inner view-dom-id-084842b83849a2a1db310daa94f36461">
+        
+  
+  
+      <div class="view-content">
+        <div class="megamenu-main-inner-content">
+      
+  <div>        <div class="col-12"><div class="megamenu-inner-image"><a href="/entrepreneurial-nation/1337-ventures-kicks-alpha-startups-digital-accelerator-programme"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/ASDA-2021.png" alt="1337 Ventures kicks off Alpha Startups Digital Accelerator programme" class="img-fluid border" title="1337 Ventures kicks off Alpha Startups Digital Accelerator programme"></a></div></div>
+<div class="col -12">
+        <h5 class="megamenu-inner-title"><a href="/entrepreneurial-nation/1337-ventures-kicks-alpha-startups-digital-accelerator-programme">1337 Ventures kicks off Alpha Startups Digital Accelerator programme</a></h5> 
+        <div class="megamenu-inner-author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia April 14, 2021</a> </div>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe -->  </div>
+</div>
+  </div>
+</div>
+
+<div data-showblocktitle="0" data-class="" data-width="4" data-hidewcol="1" id="tb-megamenu-column-24" class="tb-megamenu-column col-4  mega-col-nav  hidden-collapse">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--2be911062e3e3d6545755ed32159dacc" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-views-2be911062e3e3d6545755ed32159dacc--2" class="block block-views">
+            
+            
+            
+      <div class="block-content">
+        <div class="view view-tbmegamenu-submenu-blocks-v3- view-id-tbmegamenu_submenu_blocks_v3_ view-display-id-block_mm_en_inner_others view-dom-id-8825e9cb03c1da2fa048b2da813a2d4d">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row-odd views-row-first">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/entrepreneurial-nation/five-startups-handpicked-cyberviews-clla-accelerator-programme"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/CLLA-15.jpg?itok=t3w8G4ve" alt="Five startups handpicked for Cyberview's CLLA accelerator programme" class="img-fluid border" title="Five startups handpicked for Cyberview's CLLA accelerator programme"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/entrepreneurial-nation/five-startups-handpicked-cyberviews-clla-accelerator-programme">Five startups handpicked for Cyberview's CLLA accelerator programme</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia March 26, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-even">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/entrepreneurial-nation/magic-scaleup-malaysia-collaborate-accelerate-20-start-ups"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/ScaleUp-MaGIC.png?itok=GPqtTqBg" alt="MaGIC, ScaleUp Malaysia collaborate to accelerate 20 start-ups" class="img-fluid border" title="MaGIC, ScaleUp Malaysia collaborate to accelerate 20 start-ups"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/entrepreneurial-nation/magic-scaleup-malaysia-collaborate-accelerate-20-start-ups">MaGIC, ScaleUp Malaysia collaborate to accelerate 20 start-ups</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia March 24, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-odd">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/entrepreneurial-nation/inaugural-kl-startup-summit-kick-march-26"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/klss2021.png?itok=4LliumQb" alt="Inaugural KL Startup Summit to kick off March 26" class="img-fluid border" title="Inaugural KL Startup Summit to kick off March 26"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/entrepreneurial-nation/inaugural-kl-startup-summit-kick-march-26">Inaugural KL Startup Summit to kick off March 26</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia March 22, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-even views-row-last">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/entrepreneurial-nation/digital-insurance-player-ouch-secures-us364k-seed-funding"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/Ouch%21-Banner.png?itok=JrOcZu0q" alt="Digital insurance player Ouch! secures US$364K seed funding" class="img-fluid border" title="Digital insurance player Ouch! secures US$364K seed funding"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/entrepreneurial-nation/digital-insurance-player-ouch-secures-us364k-seed-funding">Digital insurance player Ouch! secures US$364K seed funding</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia March 12, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/entrepreneurial-nation">
+    View More  </a>
+</div>
+  
+  
+  
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe -->  </div>
+</div>
+  </div>
+</div>
+</div>
+
+  </div>
+</div>
+</li>
+
+<li  data-id="17855" data-level="1" data-type="menu_item nav-item" data-class="" data-xicon="" data-caption="" data-alignsub="justify" data-group="0" data-hidewcol="1" data-hidesub="0" class="tb-megamenu-item level-1 mega mega-align-justify sub-hidden-collapse dropdown nav-item">
+  <a href="/startups" class="dropdown-toggle">
+        
+    Startups          <span class="caret"></span>
+          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row  row no-gutters">
+  <div data-showblocktitle="0" data-class="" data-width="8" data-hidewcol="1" id="tb-megamenu-column-27" class="tb-megamenu-column col-8  mega-col-nav  hidden-collapse">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--0b76c7732784a258d6f29f5ac34717c3" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-views-0b76c7732784a258d6f29f5ac34717c3--2" class="block block-views">
+            
+            
+            
+      <div class="block-content">
+        <div class="view view-tbmegamenu-submenu-blocks-v3- view-id-tbmegamenu_submenu_blocks_v3_ view-display-id-block_22 view-dom-id-7d996c0881f2283aaae73ee3667c039c">
+        
+  
+  
+      <div class="view-content">
+        <div class="megamenu-main-inner-content">
+      
+  <div>        <div class="col-12"><div class="megamenu-inner-image"><a href="/startups/aerodyne-expands-thailand-aerosky-deliver-infrastructure-inspection-services"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/AeroSky-signing.jpg" alt="Aerodyne expands to Thailand with AeroSky to deliver infrastructure inspection services" class="img-fluid border" title="Aerodyne expands to Thailand with AeroSky to deliver infrastructure inspection services"></a></div></div>
+<div class="col -12">
+        <h5 class="megamenu-inner-title"><a href="/startups/aerodyne-expands-thailand-aerosky-deliver-infrastructure-inspection-services">Aerodyne expands to Thailand with AeroSky to deliver infrastructure inspection services</a></h5> 
+        <div class="megamenu-inner-author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia May 21, 2021</a> </div>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe -->  </div>
+</div>
+  </div>
+</div>
+
+<div data-showblocktitle="0" data-class="" data-width="4" data-hidewcol="1" id="tb-megamenu-column-28" class="tb-megamenu-column col-4  mega-col-nav  hidden-collapse">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--12dfe21d2cd919df6c12c67b56b0326c" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-views-12dfe21d2cd919df6c12c67b56b0326c--2" class="block block-views">
+            
+            
+            
+      <div class="block-content">
+        <div class="view view-tbmegamenu-submenu-blocks-v3- view-id-tbmegamenu_submenu_blocks_v3_ view-display-id-block_23 view-dom-id-6b27d5e739252b2aefe2507f3447b2ee">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row-odd views-row-first">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/startups/11-finalists-battle-it-out-alpha-startups-digital-accelerator-asda-2021"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/ASDA-Demo-Day-Finalists-2020.jpg?itok=55ogQkO6" alt="11 Finalists to battle it out at Alpha Startups Digital Accelerator (ASDA) 2021" class="img-fluid border" title="11 Finalists to battle it out at Alpha Startups Digital Accelerator (ASDA) 2021"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/startups/11-finalists-battle-it-out-alpha-startups-digital-accelerator-asda-2021">11 Finalists to battle it out at Alpha Startups Digital Accelerator (ASDA) 2021</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia May 21, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-even">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/startups/asia-mobiliti-launches-telematics-backed-smart-access-management-solution"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/AsiaMobiliti-smart-freight-cover.jpg?itok=SCSARoXj" alt="Asia Mobiliti launches telematics-backed smart access management solution" class="img-fluid border" title="Asia Mobiliti launches telematics-backed smart access management solution"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/startups/asia-mobiliti-launches-telematics-backed-smart-access-management-solution">Asia Mobiliti launches telematics-backed smart access management solution</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia May 17, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-odd">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/startups/ata-plus-appoints-elain-lockman-ceo"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/Elain-Lockman-CEO-ATA-Plus_1.png?itok=SQqUqR3R" alt="Ata Plus appoints Elain Lockman as CEO" class="img-fluid border" title="Ata Plus appoints Elain Lockman as CEO"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/startups/ata-plus-appoints-elain-lockman-ceo">Ata Plus appoints Elain Lockman as CEO</a> </h6>
+        <small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia May 14, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+  <div class="views-row-even views-row-last">
+      
+  <div class="megamenu-other-row">        <div class="row">    
+    <div class="col-4"><div class="megamenu-inner-image"><a href="/startups/future-malaysias-startup-ecosystem-building-more-and-better-startups"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/thumbnail/public/KL-Startup-Summit-2021.jpg?itok=Fka4irYP" alt="The future of Malaysia&acirc;&#128;&#153;s startup ecosystem is in building more, and better, startups" class="img-fluid border" title="The future of Malaysia&acirc;&#128;&#153;s startup ecosystem is in building more, and better, startups"></a></div></div>
+    <div class="col-8">
+        <h6 class="megamenu-inner-title"><a href="/startups/future-malaysias-startup-ecosystem-building-more-and-better-startups">The future of Malaysia&rsquo;s startup ecosystem is in building more, and better, startups</a> </h6>
+        <small class="author-date"><a href="/author/tan-jee-yee" title="View all articles by Tan Jee Yee">By Tan Jee Yee May 12, 2021</a></small>
+    </div>
+</div>
+  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/startups">
+    View More  </a>
+</div>
+  
+  
+  
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe -->  </div>
+</div>
+  </div>
+</div>
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+      </div>
+  </div>
+      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe --></div>
+<!-- END REGION top_navigation -->
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+    <div class="row no-gutters">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="d-flex flex-fill justify-content-end">
+              <div class="d-flex bg-dark shadow d-flex flex-row text-white pb-2 align-items-center">
+                <!-- START REGION top_bar -->
+<div class="region region-top-bar">
+  <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-searchbox-login-searchbox-login" class="block block-searchbox-login">
+            
+            
+            
+      <div class="block-content">
+        <div class="d-flex justify-content-between align-items-center px-3"><div class="d-flex d-inline-flex justify-content-between align-items-center searchboxlogin-form mr-2"><form class="form-inline" action="/business/gd-express-enhances-it-performance-and-scalability-nutanix" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <input placeholder="Search..." class="form-control form-control-sm form-control" type="text" id="searchlogin_search" name="search_block_form" value="" maxlength="255" /> <i class="fas fa-lg fa-search d-none d-md-inline"></i><div class="form-actions d-none form-wrapper" id=""><input class="btn btn-primary form-submit" type="submit" name="op" value="Search" /></div><input type="hidden" name="form_build_id" value="form-Q4wwSyCnMdqB44vvZXbiafCuxFkn1HeBjcVCjJuKdcs" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div><div class="d-flex d-inline-flex searchboxlogin-user"><a href="/user" class="user-link" title="Login"><i class="fas fa-lg fa-user"></i></a></div></div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe --></div>
+<!-- END REGION top_bar -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="sticky-top section-top-nav dna-nav d-none d-sm-block d-xs-block d-md-none">
+  <div class="container-fluid">
+    <div class="row no-gutters">
+      <div class="col-12">
+        <nav class="bg-dark navbar-dark nav top-nav-container">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mobile_nav_content" aria-controls="mobile_nav_content" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <a class="mobilenav navbar-brand col" href="/"></a>
+          <div class="collapse navbar-collapse" id="mobile_nav_content">
+            <div class="container">
+              <div class="row">
+                <div class="col-12">
+                  <!-- START REGION mobile_top_navigation -->
+<div class="region region-mobile-top-navigation">
+  <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-menu-menu-new-mobile-menu" class="block block-menu">
+            
+            
+            
+      <div class="block-content">
+        <ul class="navbar-nav mobile-nav-menu mr-auto"><li class="nav-item"><a href="/digital-economy" class="nav-link" title="Digital Economy powered by MDEC">Digital Economy powered by MDEC</li></a><li class="nav-item"><a href="/insights" class="nav-link" title="Insights">Insights</li></a><li class="nav-item"><a href="/business" class="nav-link" title="'Software Testing is' Business">'Software Testing is' Business</li></a><li class="nav-item"><a href="/personaltech" class="nav-link" title="Personal Tech">Personal Tech</li></a><li class="nav-item"><a href="/digital-lab" class="nav-link" title="National DigitalInfrastructure Lab">National Digital<br>Infrastructure Lab</li></a><li class="nav-item"><a href="/entrepreneurial-nation" class="nav-link" title="Entrepreneurial Nationby MaGIC">Entrepreneurial Nation<span class="sp-menu-suffix sp-magic">by MaGIC</span></li></a><li class="nav-item"><a href="/startups" class="nav-link" title="Startups">Startups</li></a></ul>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe --></div>
+<!-- END REGION mobile_top_navigation -->
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="d-flex flex-fill justify-content-end pr-3">
+            <div class="d-flex bg-dark shadow d-flex flex-row text-white pb-2 align-items-center">
+              <!-- START REGION top_bar -->
+<div class="region region-top-bar">
+  <!-- START REGION top_bar -->
+<div class="region region-top-bar">
+  <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-searchbox-login-searchbox-login" class="block block-searchbox-login">
+            
+            
+            
+      <div class="block-content">
+        <div class="d-flex justify-content-between align-items-center px-3"><div class="d-flex d-inline-flex justify-content-between align-items-center searchboxlogin-form mr-2"><form class="form-inline" action="/business/gd-express-enhances-it-performance-and-scalability-nutanix" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <input placeholder="Search..." class="form-control form-control-sm form-control" type="text" id="searchlogin_search" name="search_block_form" value="" maxlength="255" /> <i class="fas fa-lg fa-search d-none d-md-inline"></i><div class="form-actions d-none form-wrapper" id=""><input class="btn btn-primary form-submit" type="submit" name="op" value="Search" /></div><input type="hidden" name="form_build_id" value="form-Q4wwSyCnMdqB44vvZXbiafCuxFkn1HeBjcVCjJuKdcs" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div><div class="d-flex d-inline-flex searchboxlogin-user"><a href="/user" class="user-link" title="Login"><i class="fas fa-lg fa-user"></i></a></div></div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe --></div>
+<!-- END REGION top_bar -->
+</div>
+<!-- END REGION top_bar -->
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end top_navigation content -->
+
+<!-- START PAGE CONTENT -->
+<div id="page" class="page">
+<div class="container">
+  <section class="row main-leaderboard-row">
+    <div class="col-12">
+      <div class="dna-leaderboard position-relative my-4"><!-- START REGION leaderboard_top -->
+<div class="region region-leaderboard-top">
+  <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-block-521" class="block block-block">
+            
+            
+            
+      <div class="block-content">
+        <!-- /14142765/Business_Leaderboard_Top -->
+<div class="leaderboard-container">
+<div id="div-gpt-ad-1465926909074-0" class="leaderboard-content">
+    <script type="af65ec5b323243b207ffda2a-text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('div-gpt-ad-1465926909074-0');
+            googletag.pubads().refresh([gptAdSlots[0]]);
+        });
+    </script>
+</div>
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe --></div>
+<!-- END REGION leaderboard_top -->
+</div>
+    </div>
+  </section>
+  <div class="row mt-4 pt-4">
+    <section class="col-md-8 col-sm-12 col-xs-12 section-main-content">
+      <div class="main-left-content">
+                        
+																	
+                
+                        
+                          <h1 class="page-header pb-1">
+            GD Express Enhances IT Performance and Scalability with Nutanix          </h1>
+                
+                <!-- START REGION content --><div class="region region-content">
+  <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-system-main" class="block block-system">
+            
+            
+            
+      <div class="block-content">
+        <!-- START NODE ARTICLE TEMPLATE -->
+<div id="node-72683" class="node node-article clearfix article_wrapper" about="/business/gd-express-enhances-it-performance-and-scalability-nutanix" typeof="sioc:Item foaf:Document">
+  <div class="content">
+    
+    <div class="row mb-4">
+      <div class="col-12">
+                <h6 class="article-author-date text-info">
+          By Digital News Asia           December 9, 2020        </h6>
+
+        
+<!-- START FIELD TEMPLATE -->
+
+
+<div class="d-flex justify-content-start flex-wrap">
+      <div class="body">
+      <ul>
+<li><strong><em>Malaysian logistics firm taps Nutanix Enterprise Cloud to manage e-commerce demand</em></strong></li>
+<li><strong><em>GDEX able&nbsp;to implement rapid scalability to support fluctuating volumes at lower cost</em></strong></li>
+</ul>
+<p><img alt="GD Express Enhances IT Performance and Scalability with Nutanix" src="https://www.digitalnewsasia.com/sites/default/files/images/GDEX-screencap.jpg" style="width:100%; " title="GD Express Enhances IT Performance and Scalability with Nutanix"><br>
+Nutanix, a leader in in private cloud, hybrid, and multicloud computing,&nbsp;announced last week that Malaysian logistics and express carrier provider&nbsp;GD Express (GDEX)&nbsp;has adopted Nutanix&nbsp;Hybrid&nbsp;Cloud to keep pace with the fast changing demands in E-commerce.&nbsp;Since implementation, the technology upgrade has helped GDEX&nbsp;achieve&nbsp;a threefold increase in business transactions.</p>
+<p>E-commerce is set to play a catalyst role in Malaysia&rsquo;s post-pandemic recovery. The&nbsp;Malaysia Digital Economy Corporation (MDEC)&nbsp;expects a&nbsp;20 percent growth in E-commerce contribution&nbsp;to the digital economy in 2020, reaching as high as US$41.8 billion (RM170 billion). This presents a business opportunity for GDEX&rsquo; business-to-consumer (B2C) operations, which have tripled in transactions in the last three years, and represent 35 percent of the overall business.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>To continue on this growth path, GDEX&nbsp;needed to ensure compliance with&nbsp;service level agreements (SLAs). Prior to adopting the Nutanix solution,&nbsp;GDEX&nbsp;was already managing up to 180,000 consignments a day, and each of these passed through multiple shipment tracking points before reaching its destination. The tracking points generate data that offers visibility on the shipment status, creating a myriad of records that needed to be processed and stored efficiently.</p>
+<p>GDEX&rsquo; legacy IT infrastructure could not support its vision to scale, leading it to search for a flexible modern infrastructure that could support seamless end-to-end operations.</p>
+<p><img alt="GD Express Enhances IT Performance and Scalability with Nutanix" src="https://www.digitalnewsasia.com/sites/default/files/images/Teong%20Teck%20Lean%2C%20GDEX%20CEO.jpg" style="margin:15px; float:left; width:320px; height:303px; " title="GD Express Enhances IT Performance and Scalability with Nutanix">Teong Teck Lean <em><strong>(pic)</strong></em>, Managing Director and Group Chief Executive Officer, GDEX said: &ldquo;The logistics industry is fast changing, and the pandemic has made the business landscape even more challenging to navigate. As a customer-focused and technology-driven company, we partnered with Nutanix to ensure that we are always ready to adapt to changes in customer and market demands.&rdquo;</p>
+<p>The company has since put in place three Nutanix Clusters and migrated all its core applications for governing shipments to the Nutanix Enterprise Cloud platform. The IT team now manages server, storage and networking resources through a single pane of glass.</p>
+<p>Charles Ong, Special Project Advisor,&nbsp;GDEX, commented: &ldquo;After comparing our legacy infrastructure with Nutanix&rsquo; hyperconverged private cloud where software managed everything, it was clear that the latter would give us the rapid scalability we needed to support fluctuating volumes at a lower cost.&rdquo;</p>
+<p>GDEX&rsquo; operations now run smoothly regardless of the volume of shipments. Staff now have all the information they need, whenever they need, to make sure deliveries are on schedule. Nutanix&rsquo; platform enables&nbsp;GDEX&nbsp;to scale in minutes to accommodate large order spikes for key E-commerce events such as 11.11 and the upcoming 12.12, resulting in an approximately 100% increase in GDEX&rsquo; overall business revenues.</p>
+<p>&ldquo;E-commerce is both a great business opportunity and a great IT challenge for logistics companies such as ours. Nutanix&rsquo; platform is incredibly elastic, enabling us to scale quickly and efficiently, without compromising our service and costs,&rdquo; said Ong. &ldquo;We would not have achieved this success if we continued with our legacy infrastructure. The cost of scaling and management would have eaten into our margins, but with Nutanix, we are able to sustain and scale our operations to consistently meet customer and market demands.&rdquo;&nbsp;</p>
+<p>&ldquo;As Malaysia&rsquo;s digital economy continues to advance, a new generation of digital consumers have emerged and driven the growth of e-commerce,&rdquo; said Avinash Gowda, Country Manager, Malaysia, Nutanix. &ldquo;Nutanix has been supporting businesses like GDEX in accelerating their digital transformation, enabling them to scale and meet evolving consumer demands. We are pleased to have empowered GDEX with a modern IT infrastructure that allows them to take their business to greater heights.&rdquo;</p>
+<p>GDEX was established in 1997 in Malaysia to provide express delivery services for domestic and international markets. It was the first local express delivery company to have obtained ISO 9001:2000. Today, GDEX operates a network of 425 stations, comprising 99 branches, 64 agents, 11 lodge-in centres and 251 reseller agencies across Malaysia and Singapore. It has a fleet of 1,277&nbsp; trucks and vans and over 4500 employees across its operations.&nbsp;</p>
+    </div>
+  </div>
+
+<div class="clearfix">&nbsp;</div>
+<!-- END FIELD TEMPLATE -->
+<!-- START FIELD TEMPLATE -->
+
+
+<div class="d-flex justify-content-start flex-wrap">
+      <div class="field_social_media_links">
+      <p><em><strong>For more technology news and the latest updates, follow us&nbsp;on&nbsp;</strong></em><a href="https://www.facebook.com/DNewsAsia/" target="_blank"><em><strong>Facebook,</strong></em></a><a href="https://twitter.com/DNewsAsia" target="_blank"><em><strong> Twitter</strong></em></a><em><strong> or </strong></em><a href="http://www.linkedin.com/company/digital-news-asia" target="_blank"><em><strong>LinkedIn</strong></em></a></p>
+    </div>
+  </div>
+
+<div class="clearfix">&nbsp;</div>
+<!-- END FIELD TEMPLATE -->
+<!-- START FIELD TEMPLATE -->
+
+  <h6 class="field-label font-weight-bold text-dark">Keyword(s) :</h6>
+
+<div class="d-flex justify-content-start flex-wrap">
+      <div class="field_article_keyword">
+      <a href="/tags/gdex" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">GDex</a>    </div>
+      <div class="field_article_keyword">
+      <a href="/tags/nutanix" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Nutanix</a>    </div>
+      <div class="field_article_keyword">
+      <a href="/tags/cloud" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Cloud</a>    </div>
+      <div class="field_article_keyword">
+      <a href="/tags/hybrid-cloud" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Hybrid Cloud</a>    </div>
+      <div class="field_article_keyword">
+      <a href="/tags/e-commerce" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">e-Commerce</a>    </div>
+      <div class="field_article_keyword">
+      <a href="/tags/scalability" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Scalability</a>    </div>
+      <div class="field_article_keyword">
+      <a href="/tags/enterprise" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Enterprise</a>    </div>
+      <div class="field_article_keyword">
+      <a href="/tags/avinash-gowda" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Avinash Gowda</a>    </div>
+      <div class="field_article_keyword">
+      <a href="/tags/teong-teck-lean" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Teong Teck Lean</a>    </div>
+      <div class="field_article_keyword">
+      <a href="/tags/logistics" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Logistics</a>    </div>
+  </div>
+
+<div class="clearfix">&nbsp;</div>
+<!-- END FIELD TEMPLATE -->
+<!-- START FIELD TEMPLATE -->
+
+  <h6 class="field-label font-weight-bold text-dark">Author Name :</h6>
+
+<div class="d-flex justify-content-start flex-wrap">
+      <div class="field_article_author_name">
+      <a href="/author/digital-news-asia" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Digital News Asia</a>    </div>
+  </div>
+
+<div class="clearfix">&nbsp;</div>
+<!-- END FIELD TEMPLATE --><span class="a2a_kit a2a_kit_size_24 a2a_target addtoany_list" id="da2a_2">
+      <a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_twitter a2a_counter"></a>
+<a class="a2a_button_linkedin a2a_counter"></a>
+<a class="a2a_button_email  a2a_counter"></a>
+<a class="a2a_button_whatsapp  a2a_counter"></a>
+<a class="a2a_button_telegram  a2a_counter"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.digitalnewsasia.com%2Fbusiness%2Fgd-express-enhances-it-performance-and-scalability-nutanix&amp;title=GD%20Express%20Enhances%20IT%20Performance%20and%20Scalability%20with%20Nutanix"></a>
+      
+    </span>
+      
+              </div>
+    </div>
+  </div>
+</div>
+<!-- END NODE ARTICLE TEMPLATE -->      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe --></div>
+<!-- END REGION content -->
+
+      
+      </div>
+    </section>
+    <section class="col-md-4 mt-4 col-sm-12 col-xs-12 section-main-sidebar">
+      <div class="main-right-sidebar">
+        <!-- START REGION page_sidebar -->
+<div class="region region-page-sidebar">
+  <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-block-481" class="block block-block topbanner_right">
+            
+            
+            
+      <div class="block-content">
+        <!-- /14142765/Business_MediumRectangle_Top -->
+<div id="div-gpt-ad-1465929867341-0" class="mediumminirect-content p-4 mb-4 justify-content-center text-center"><script type="af65ec5b323243b207ffda2a-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465929867341-0'); googletag.pubads().refresh([gptMedRecSlots[0]]); });
+</script></div>
+      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe --><!-- START BLOCK TEMPLATE -->
+
+    <div id="block-block-565" class="block block-block">
+            
+              <h2 class="block-title mb-4">Digerati50 2020-2021</h2>
+            
+            
+      <div class="block-content">
+        <!--smart_paging_autop_filter--><!--smart_paging_filter--><p><a href="https://www.digitalnewsasia.com/digerati50-2020-download" title="Download Digerati50 2020-2021 PDF"><img alt="Download Digerati50 2020-2021 PDF" src="https://www.digitalnewsasia.com/sites/default/files/images/digerati50-2020-cover2.jpg" style="width: 100%;" /></a></p>
+
+<p><a class="btn btn-info btn-block" href="https://www.digitalnewsasia.com/digerati50-2020-download">DOWNLOAD</a></p>
+      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe --><!-- START BLOCK TEMPLATE -->
+
+    <div id="block-views-840faacf391262ade9a8ca021ad4b8c3" class="block block-views">
+            
+              <h2 class="block-title mb-4">Other News</h2>
+            
+            
+      <div class="block-content">
+        <div class="view view-sidebar-blocks view-id-sidebar_blocks view-display-id-block_rand_art_main view-dom-id-19f29b825699bcf584f1a64ef7c48500">
+        
+  
+  
+      <div class="view-content">
+      <div class="random-article-row mb-2">
+      
+          <div class="article-image"><a href="/mobility/celcom-xpax-offers-unlimited-prepaid-internet-low-us280"><img typeof="foaf:Image" src="https://www.digitalnewsasia.com/sites/default/files/styles/responsive/public/Celcom%20Unlimited%20calls%20prepaid.png?itok=QOUdMaQl" alt="Celcom Xpax offers unlimited prepaid internet from as low as US$2.80" class="img-fluid" title="Celcom Xpax offers unlimited prepaid internet from as low as US$2.80"></a></div>
+<h6 class="article-title text-dark text-capitalize"><a href="/mobility/celcom-xpax-offers-unlimited-prepaid-internet-low-us280">Celcom Xpax offers unlimited prepaid internet from as low as US$2.80</a></h6>
+<small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia  June 10, 2020</a></small>    </div>
+
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="view view-sidebar-blocks view-id-sidebar_blocks view-display-id-block_rand_art_no_img view-dom-id-541ccd0aaf5b0287532ca105bd1c4b34">
+        
+  
+  
+      <div class="view-content">
+      <div class="random-article-row my-1">
+      
+  <div class="other-random-article">        <h6 class="article-title text-dark mb-0 pb-0"><a href="/startups/global-startup-ecosystem-report-flags-risk-mass-extinction-event-startups-globally">Global Startup Ecosystem Report flags risk of mass extinction event for startups globally</a></h6>
+<small class="author-date"><a href="/author/kiran-kaur-sidhu" title="View all articles by Kiran Kaur Sidhu">By Kiran Kaur Sidhu  June 29, 2020</a></small>  </div>  </div>
+  <div class="random-article-row my-1">
+      
+  <div class="other-random-article">        <h6 class="article-title text-dark mb-0 pb-0"><a href="/entrepreneurial-nation/e-nation-2020-building-nations-post-covid-world-requires-tech-government">E-Nation 2020: Building nations in a post-Covid world requires tech, government, education, and empathy</a></h6>
+<small class="author-date"><a href="/author/tan-jee-yee" title="View all articles by Tan Jee Yee">By Tan Jee Yee  October 23, 2020</a></small>  </div>  </div>
+  <div class="random-article-row my-1">
+      
+  <div class="other-random-article">        <h6 class="article-title text-dark mb-0 pb-0"><a href="/business/sunway-medical-centre-introduces-command-centre-telemedicine-services">Sunway Medical Centre introduces a Command Centre for Telemedicine Services</a></h6>
+<small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia  January 19, 2021</a></small>  </div>  </div>
+  <div class="random-article-row my-1">
+      
+  <div class="other-random-article">        <h6 class="article-title text-dark mb-0 pb-0"><a href="/business/cermati-secures-series-c-funding-led-mdi-venture">Cermati secures Series C funding, led by MDI Venture </a></h6>
+<small class="author-date"><a href="/author/digital-news-asia" title="View all articles by Digital News Asia">By Digital News Asia  May 11, 2021</a></small>  </div>  </div>
+  <div class="random-article-row my-1">
+      
+  <div class="other-random-article">        <h6 class="article-title text-dark mb-0 pb-0"><a href="/business/pertama-digital-appoints-aiza-azreen-ceo">Pertama Digital appoints Aiza Azreen as CEO</a></h6>
+<small class="author-date"><a href="/author/tan-jee-yee" title="View all articles by Tan Jee Yee">By Tan Jee Yee  November 25, 2020</a></small>  </div>  </div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe --></div>
+<!-- END REGION page_sidebar -->
+      </div>
+    </section>
+  </div>
+</div>
+</div>
+<!-- END PAGE CONTENT -->
+
+<!-- START BOTTOM TWO COLUMN CONTENT -->
+
+<section class="container two-col mb-5">
+  <div class="row">
+          <div class="col-md-6 col-sm-12 mb-5">
+        <!-- START REGION bottom_two_column_first_column -->
+<div class="region region-bottom-two-column-first-column">
+  <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-simplenews-46510" class="block block-simplenews bg-gray">
+            
+            
+            
+      <div class="block-content">
+        <div class="row py-5 px-3">
+  <div class="col-md-4 col-sm-5">
+    <img src="/sites/all/themes/dna_v3/images/bgphone.png" alt="Subscribe to SNAP" class="img-fluid"/>
+  </div>
+  <div class="col-md-8 col-sm-7 subscribe-container">
+    <h3 class="subscribe-header font-weight-bold text-dna">Stay Updated</h3>
+    <p class="subscribe-message">Get the Weekly SNAP (Editor&#039;s Highlights) straight into your inbox</p>
+		<div id="newsform_wrapper">
+			<output id="newsletter_form_response"></output>
+			<div id="newsletter_form">
+									<form class="simplenews-subscribe form" action="/business/gd-express-enhances-it-performance-and-scalability-nutanix" method="post" id="simplenews-block-form-46510" accept-charset="UTF-8"><div><div class="row no-gutters"><div class="col-md-9"><div class="input-group"><div class="input-group-prepend"><span class="input-group-text">@</span></div><input required="required" placeholder="You email address.." maxlength="150" type="text" value="" id="edit-mail" name="mail" class="form-control required" /></div></div><div class="captcha"><input type="hidden" name="captcha_sid" value="595" />
+<input type="hidden" name="captcha_token" value="2a2df7ed27d5bc37b02a277738ac57a7" />
+<input type="hidden" name="captcha_response" value="Google no captcha" />
+<div class="g-recaptcha" data-sitekey="6LesQNwSAAAAAOobDaGi4YU2yU789u4XRYkOIBFd" data-theme="light" data-type="image"></div></div><div class="col-md-3"><input value="Sign Up" class="btn btn-primary form-submit" type="submit" id="edit-submit--2" name="op" /></div></div><input type="hidden" name="form_build_id" value="form-MtUzSierc1iyL8hjtkaqPJQMhytPR9lXN4qX_VJcB3w" />
+<input type="hidden" name="form_id" value="simplenews_block_form_46510" />
+</div></form>							</div>
+		</div>
+  </div>
+</div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe --></div>
+<!-- END REGION bottom_two_column_first_column -->
+      </div>
+              <div class="col-md-6 col-sm-12">
+        <!-- START REGION bottom_two_column_second_column -->
+<div class="region region-bottom-two-column-second-column">
+  <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-block-566" class="block block-block bg-gray">
+            
+            
+            
+      <div class="block-content">
+        <!--smart_paging_autop_filter--><!--smart_paging_filter--><div class="row py-5 px-3">
+<div class="col-md-4 col-sm-5"><img alt="Download Digerati50 2020-2021 PDF" class="img-fluid" src="/sites/default/files/images/digerati50-2020-cover2.jpg" /></div>
+
+<div class="col-md-8 col-sm-7">
+<h3 class="font-weight-bold text-dna">Digerati50 2020-2021</h3>
+
+<p>Get and download a digital copy of Digerati50 2020-2021</p>
+
+<div class="d-flex flex-fill align-items-center justify-content-center subscribe-content"><a class="btn btn-info text-upper" href="/digerati50-2020-download">Download</a></div>
+</div>
+</div>
+      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe --></div>
+<!-- END REGION bottom_two_column_second_column -->
+      </div>
+      </div>
+</section>
+
+<!-- END BOTTOM TWO COLUMN CONTENT -->
+
+<!-- START FOOTER SECTION -->
+
+<footer class="section-footer bg-dark text-white py-5 px-4">
+  <div class="container-fluid">
+    <div class="row no-gutters">
+      <div class="col-md-12">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-4 col-sm-6 mb-3">
+                <!-- START REGION footer_first_column -->
+<div class="region region-footer-first-column">
+  <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-menu-menu-site-map" class="block block-menu">
+            
+              <h2 class="block-title mb-4">Site Map</h2>
+            
+            
+      <div class="block-content">
+        <div class="row mt-3"><div class="col-12"><div class="row"><div class="col-6"><div class="d-flex flex-fill pb-1"><a href="/digital-economy" class="menu-link" title="Digital Economy">Digital Economy</a></div><div class="d-flex flex-fill pb-1"><a href="/insights" class="menu-link" title="Insights">Insights</a></div><div class="d-flex flex-fill pb-1"><a href="/business" class="menu-link" title="Business">Business</a></div><div class="d-flex flex-fill pb-1"><a href="/personaltech" class="menu-link" title="Personal Tech">Personal Tech</a></div></div><div class="col-6"><div class="d-flex flex-fill pb-1"><a href="/startups" class="menu-link" title="Startups">Startups</a></div><div class="d-flex flex-fill pb-1"><a href="/entrepreneurial-nation" class="menu-link" title="Entrepreneurial Nation">Entrepreneurial Nation</a></div><div class="d-flex flex-fill pb-1"><a href="/digital-lab" class="menu-link" title="National Digital<br>Infrastructure Lab">National Digital<br>Infrastructure Lab</a></div><div class="d-flex flex-fill pb-1"><a href="/archive" class="menu-link" title="Archive">Archive</a></div></div></div></div></div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe --></div>
+<!-- END REGION footer_first_column -->
+              </div>
+              <div class="col-md-3 offset-md-1 col-sm-3 mb-3">
+                <!-- START REGION footer_second_column -->
+<div class="region region-footer-second-column">
+  <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-menu-menu-company" class="block block-menu">
+            
+              <h2 class="block-title mb-4">Company</h2>
+            
+            
+      <div class="block-content">
+        <div class="row mt-3"><div class="col-12"><div class="row"><div class="col-12"><div class="d-flex flex-fill pb-1"><a href="/about-us" class="menu-link" title="About Us">About Us</a></div><div class="d-flex flex-fill pb-1"><a href="/contactus" class="menu-link" title="Contact Us">Contact Us</a></div><div class="d-flex flex-fill pb-1"><a href="/user" class="menu-link" title="Login">Login</a></div></div></div></div></div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe --></div>
+<!-- END REGION footer_second_column -->
+              </div>
+              <div class="col-md-3 offset-md-1 col-sm-3 mb-3">
+                <!-- START REGION footer_third_column -->
+<div class="region region-footer-third-column">
+  <!-- START BLOCK TEMPLATE -->
+
+    <div id="block-menu-menu-follow-us" class="block block-menu">
+            
+              <h2 class="block-title mb-4">Follow Us</h2>
+            
+            
+      <div class="block-content">
+        <div class="mt-3"><div class="d-flex d-inline-flex pb-1 mr-4"><a href="https://www.facebook.com/DNewsAsia/" class="menu-link" title="Follow Digital News Asia on Facebook" target="_blank"><i class="fab fa-2x fa-facebook-f"></i></a></div><div class="d-flex d-inline-flex pb-1 mr-4"><a href="https://twitter.com/dnewsasia" class="menu-link" title="Follow Digital News Asia on Twitter" target="_blank"><i class="fab fa-2x fa-twitter"></i></a></div><div class="d-flex d-inline-flex pb-1 mr-4"><a href="http://www.linkedin.com/company/digital-news-asia" class="menu-link" title="Follow Digital News Asia on Linkedin" target="_blank"><i class="fab fa-2x fa-linkedin"></i></a></div></div>      </div>
+    </div>
+
+<!-- END BLOCK TEMPLATEe --></div>
+<!-- END REGION footer_third_column -->
+              </div>
+            </div>
+          </div>
+
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- END FOOTER SECTION -->
+
+<!-- END PAGE TEMPLATE -->	<!-- START REGION page_bottom -->
+<div class="region region-page-bottom">
+</div>
+<!-- END REGION page_bottom -->
+<script type="af65ec5b323243b207ffda2a-text/javascript" src="https://www.digitalnewsasia.com/sites/default/files/js/js_VU7P4CTgUZdF2SyFko5LLAg9ZK0OSVjXVaAFnTLgVt0.js"></script>
+<script type="af65ec5b323243b207ffda2a-text/javascript">
+<!--//--><![CDATA[//><!--
+da2a.targets=[
+{title:"GD Express Enhances IT Performance and Scalability with Nutanix",url:"https:\/\/www.digitalnewsasia.com\/business\/gd-express-enhances-it-performance-and-scalability-nutanix"},
+{title:"GD Express Enhances IT Performance and Scalability with Nutanix",url:"https:\/\/www.digitalnewsasia.com\/business\/gd-express-enhances-it-performance-and-scalability-nutanix"}];
+da2a.html_done=true;if(da2a.script_ready&&!da2a.done)da2a.init();da2a.script_load();
+//--><!]]>
+</script>
+<script type="af65ec5b323243b207ffda2a-text/javascript" src="https://www.digitalnewsasia.com/sites/default/files/js/js_H-nFS1mh1Fp2PyWi3tsifM_LDLnsP2NVk3YCms5BtDg.js"></script>
+
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="af65ec5b323243b207ffda2a-|49" defer=""></script><script type="text/javascript">(function(){window['__CF$cv$params']={r:'655dc3066b12f5b9',m:'7fc3ba08d57863321bda9c7f3c1e709dfc36f907-1622102978-1800-AZiJLH7xuB6FLoIK9OH9Gv1ck2iz5NjhwDi4I4K8ZJ4A32dYQkZVkn0k9/+CPmXSdmgGI0j0g5kSu3aqc+ZRj5/nyNue5bQg7KoiQOMOv2eU6fyvWBoSRQFYH+Wm+sswI99WVNyWPe/+Hr3jx5Gzqn4MmzMrx/0qJ/uSqqZl80xM1g/sMtX4XmYYu9nc3p4JoMgbzNcs9h+7EL1lxsFVe0M=',s:[0x6dabdedfe0,0x0214c7ae67],}})();</script></body>
+</html>

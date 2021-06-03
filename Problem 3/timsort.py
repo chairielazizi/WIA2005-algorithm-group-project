@@ -3,7 +3,7 @@ start_time = time.time()
 MIN_MERGE = 32
 
 """Returns the minimum length of a
-    run from 32 - 64 so that
+    run from 32 to 64 so that
     the len(array)/minrun is less than or
     equal to a power of 2.
  
@@ -136,15 +136,10 @@ test1 = dictToListOfLists(distance_c1)
 
 import random
 if __name__ == "__main__":
-    # list_arr = [0.1212,0.5435,0.123123012,0.95453,0.5645]
-    # for i in range(10):
-    #     r = random.randint(1,20)
-    #     list_arr.append(r)
 
     print("Unsorted list")
     print(test1)
 
-    # timSort(list_arr)
     timSort_dict(test1)
     print("\nSorted List:")
     print(test1)

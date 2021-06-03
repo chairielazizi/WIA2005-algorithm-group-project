@@ -11,14 +11,19 @@ def sorter(sentiment, distance, cust):
         for x in range (len(list)):
             if(list[x]=='City-Link'):
                 total_score['City-Link'] += (len(list)-x)
+                courier_ranking['City-Link'] += (len(list)-x)
             if(list[x]=='Pos Laju'):
                 total_score['Pos Laju'] += (len(list)-x)
+                courier_ranking['Pos Laju'] += (len(list)-x)
             if(list[x]=='GDEX'):
                 total_score['GDEX'] += (len(list)-x)
+                courier_ranking['GDEX'] += (len(list)-x)
             if(list[x]=='J&T'):
                 total_score['J&T'] += (len(list)-x)
+                courier_ranking['J&T'] += (len(list)-x)
             if(list[x]=='DHL'):
                 total_score['DHL'] += (len(list)-x)
+                courier_ranking['DHL'] += (len(list)-x)
 
     # this part boleh implement sorting algo i think ehe
     # sort_distance = sorted(distance.items(), key=lambda x: x[1], reverse=True)
@@ -69,6 +74,16 @@ def sorter(sentiment, distance, cust):
     print("\nThe best courier for customer",cust, "is",sort_ranks[0])
     print('_'*50)
 
+    if cust == 3:
+        total_courier_ranking = dictToListOfLists(courier_ranking)
+        sort_total_ranking = timSort_dict(total_courier_ranking)
+        print("\nThe total ranking score for the couriers(in descending order:")
+        for i in sort_total_ranking:
+            print(i[0]+":"+ str(i[1]), end="| ")
+        
+        print("\n\nThe best courier service among the customers is "+(sort_total_ranking[0][0])+" with a score of "+str(sort_total_ranking[0][1]))
+
+
 
 # to find the probability of distances
 def calculate(dist, sumOf):
@@ -105,9 +120,21 @@ if __name__ == "__main__":
         'J&T': 2.961, 
         'DHL': 1.820
         }
+    """
+    formula (31/44) + (a/b) + (c/d)
+    """
+
+    # to do the overall ranking 
+    courier_ranking = { 
+        'City-Link' : 0, 
+        'Pos Laju': 0, 
+        'GDEX': 0, 
+        'J&T': 0, 
+        'DHL': 0
+    }
 
     sorter(sentiment, distance_c1, 1)
     sorter(sentiment, distance_c2, 2)
     sorter(sentiment, distance_c3, 3)
 
-    print("--- %s seconds ---" % (time.time() - start_time))
+    print("\n--- %s seconds ---" % (time.time() - start_time))
