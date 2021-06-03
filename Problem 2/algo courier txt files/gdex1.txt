@@ -1,0 +1,1833 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie ie6" lang="" dir=""> <![endif]-->
+<!--[if IE 7]>    <html class="ie ie7" lang="" dir=""> <![endif]-->
+<!--[if IE 8]>    <html class="ie ie8" lang="" dir=""> <![endif]-->
+<!--[if gt IE 8]> <!--> <html class="" lang="" dir=""> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0" />
+<!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="/cdn-cgi/apps/head/jZtn8RGi6Xl4XcKHxu_TZiwamzk.js"></script><link rel="preconnect" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com" />
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net" />
+<link rel="preconnect" href="//cdnjs.cloudflare.com" />
+<link rel="preconnect" href="//stats.g.doubleclick.net" />
+<link rel="shortcut icon" href="https://assets.theedgemarkets.com/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property="og:title" content="GDEX partners Tasco to improve logistics delivery services" />
+<meta name="description" content="GD Express Carrier Bhd (GDEX) and Tasco Bhd have inked a memorandum of understanding (MoU) to enhance logistics delivery services between end consumers in Malaysia with domestic and international destinations." />
+<meta property="og:description" content="KUALA LUMPUR (Dec 8): GD Express Carrier Bhd (GDEX) and Tasco Bhd have inked a memorandum of understanding (MoU) to enhance logistics delivery services between end consumers in Malaysia with domestic and international destinations.Both parties told Bursa Malaysia that under the MoU, they will develop and organise joint marketing activities utilising the network and capabilities of both entities; build on each other’s strengths and comparative advantages, particularly to advance the development of seamless connectivity between e-commerce platforms and other social" />
+<meta property="og:image" content="https://assets.theedgemarkets.com/GD-Express-Carrier_www.gdexpress.com__13.jpg?_S79NsHzZSv12XVYxHDdrSpldpNaSQ2N" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.theedgemarkets.com/article/gdex-partners-tasco-improve-logistics-delivery-services" />
+<link rel="shortlink" href="https://www.theedgemarkets.com/node/545043" />
+<meta property="og:site_name" content="The Edge Markets" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.theedgemarkets.com/article/gdex-partners-tasco-improve-logistics-delivery-services" />
+<meta property="og:title" content="GDEX partners Tasco to improve logistics delivery services" />
+<meta property="og:description" content="GD Express Carrier Bhd (GDEX) and Tasco Bhd have inked a memorandum of understanding (MoU) to enhance logistics delivery services between end consumers in Malaysia with domestic and international destinations." />
+<meta property="og:updated_time" content="2020-12-08T18:57:39+08:00" />
+<meta property="article:published_time" content="2020-12-08T18:57:39+08:00" />
+<meta property="article:modified_time" content="2020-12-08T18:57:39+08:00" />
+<!-- $head_title -->
+<title>GDEX partners Tasco to improve logistics delivery services | The Edge Markets</title>
+<style>@import url("//www.theedgemarkets.com/modules/system/system.base.css?qtr7rp");@import url("//www.theedgemarkets.com/modules/system/system.menus.css?qtr7rp");@import url("//www.theedgemarkets.com/modules/system/system.messages.css?qtr7rp");@import url("//www.theedgemarkets.com/modules/system/system.theme.css?qtr7rp");</style>
+<style>@import url("//www.theedgemarkets.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?qtr7rp");</style>
+<style>@import url("//www.theedgemarkets.com/sites/all/modules/simplenews/simplenews.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/modules/calendar/css/calendar_multiday.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/modules/colorbox_node/colorbox_node.css?qtr7rp");@import url("//www.theedgemarkets.com/modules/comment/comment.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/modules/date/date_api/date.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/modules/date/date_repeat_field/date_repeat_field.css?qtr7rp");@import url("//www.theedgemarkets.com/modules/field/theme/field.css?qtr7rp");@import url("//www.theedgemarkets.com/modules/node/node.css?qtr7rp");@import url("//www.theedgemarkets.com/modules/poll/poll.css?qtr7rp");@import url("//www.theedgemarkets.com/modules/user/user.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/modules/views/css/views.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/modules/ckeditor/css/ckeditor.css?qtr7rp");</style>
+<style>@import url("//www.theedgemarkets.com/sites/all/modules/colorbox/styles/default/colorbox_style.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/modules/ctools/css/ctools.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/modules/sphinxdrupal/sphinxdrupal.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/modules/sphinxdrupal/theedgemarkets2.css?qtr7rp");</style>
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<style>@import url("//www.theedgemarkets.com/sites/all/modules/tb_megamenu/css/bootstrap.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/modules/tb_megamenu/css/base.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/modules/tb_megamenu/css/default.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/modules/tb_megamenu/css/compatibility.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/modules/colorbox_swipe/colorbox_swipe.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/modules/text_resize/text_resize.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/themes/the_edge/css/template.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/themes/the_edge/css/bootstrap.css?qtr7rp");</style>
+<style>@import url("//www.theedgemarkets.com/sites/all/themes/the_edge/vendor/owl-carousel/owl.carousel.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/themes/the_edge/vendor/owl-carousel/owl.theme.default.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/themes/the_edge/css/font-awesome.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/themes/the_edge/css/custom.css?qtr7rp");@import url("//www.theedgemarkets.com/sites/all/themes/the_edge/vendor/search/css/search.css?qtr7rp");</style>
+<script src="https://assets.theedgemarkets.com/s3fs-public/google_tag/language/google_tag.my.script.js?1QyQUocTbJH7o6Ez.8zYacOJEGROLVBA?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/misc/jquery.once.js?v=1.2" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/misc/drupal.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/misc/ajax.js?v=7.61" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/modules/ajax_error_behavior/ajax_error_behavior.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/libraries/colorbox/jquery.colorbox-min.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/modules/colorbox/js/colorbox.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/modules/colorbox/styles/default/colorbox_style.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/modules/tb_megamenu/js/tb-megamenu-frontend.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/modules/tb_megamenu/js/tb-megamenu-touch.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/modules/google_analytics/googleanalytics.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-35049009-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+var text_resize_scope="post-content";var text_resize_minimum="14";var text_resize_maximum="22";var text_resize_line_height_allow=0;var text_resize_line_height_min="24";var text_resize_line_height_max="32";</script>
+<script src="//www.theedgemarkets.com/sites/all/modules/text_resize/text_resize.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/misc/progress.js?v=7.61" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/modules/colorbox_node/colorbox_node.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/themes/the_edge/js/bootstrap.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/themes/the_edge/js/imagesloader.min.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/themes/the_edge/vendor/modernizr.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/themes/the_edge/vendor/jquery.easing.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/themes/the_edge/vendor/owl-carousel/owl.carousel.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/themes/the_edge/js/jquery.cookie.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/themes/the_edge/js/sidebar-sticky.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/themes/the_edge/vendor/waypoint.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/themes/the_edge/js/theme.plugins.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/themes/the_edge/js/modernizr.custom.26633.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/themes/the_edge/js/jquery.gridrotator.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"the_edge","theme_token":"whUaJxIGp5kHnqIpIlqsw-zQntITcGfI_VMQni7QPuc","jquery_version":"1.10","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/simplenews\/simplenews.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sphinxdrupal\/sphinxdrupal.css":1,"sites\/all\/modules\/sphinxdrupal\/theedgemarkets2.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"sites\/all\/modules\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/tb_megamenu\/css\/compatibility.css":1,"sites\/all\/modules\/colorbox_swipe\/colorbox_swipe.css":1,"sites\/all\/modules\/text_resize\/text_resize.css":1,"sites\/all\/themes\/the_edge\/css\/template.css":1,"sites\/all\/themes\/the_edge\/css\/bootstrap.css":1,"sites\/all\/themes\/the_edge\/vendor\/owl-carousel\/owl.carousel.css":1,"sites\/all\/themes\/the_edge\/vendor\/owl-carousel\/owl.theme.default.css":1,"sites\/all\/themes\/the_edge\/css\/font-awesome.css":1,"sites\/all\/themes\/the_edge\/css\/custom.css":1,"sites\/all\/themes\/the_edge\/vendor\/search\/css\/search.css":1},"js":{"sites\/all\/libraries\/jquery.event.move\/js\/jquery.event.move.js":1,"sites\/all\/libraries\/jquery.event.swipe\/js\/jquery.event.swipe.js":1,"sites\/all\/modules\/colorbox_swipe\/colorbox_swipe.js":1,"modules\/statistics\/statistics.js":1,"sites\/all\/modules\/addthis\/addthis.js":1,"public:\/\/google_tag\/language\/google_tag.my.script.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/ajax_error_behavior\/ajax_error_behavior.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/text_resize\/text_resize.js":1,"misc\/progress.js":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.js":1,"sites\/all\/themes\/the_edge\/js\/bootstrap.js":1,"sites\/all\/themes\/the_edge\/js\/imagesloader.min.js":1,"sites\/all\/themes\/the_edge\/vendor\/modernizr.js":1,"sites\/all\/themes\/the_edge\/vendor\/jquery.easing.js":1,"sites\/all\/themes\/the_edge\/vendor\/owl-carousel\/owl.carousel.js":1,"sites\/all\/themes\/the_edge\/js\/jquery.cookie.js":1,"sites\/all\/themes\/the_edge\/js\/sidebar-sticky.js":1,"sites\/all\/themes\/the_edge\/vendor\/waypoint.js":1,"sites\/all\/themes\/the_edge\/js\/theme.plugins.js":1,"sites\/all\/themes\/the_edge\/js\/modernizr.custom.26633.js":1,"sites\/all\/themes\/the_edge\/js\/jquery.gridrotator.js":1}},"ajaxErrorBehavior":{"behavior":"console","error":"There was some error in the user interface, please contact the site administrator.","watchdog_url":"http:\/\/www.theedgemarkets.com\/ajax_error_behavior\/watchdog"},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"98%","maxHeight":"98%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":false,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/article\/gdex-partners-tasco-improve-logistics-delivery-services":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"addthis":{"async":0,"domready":1,"widget_url":"https:\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"ra-5405d10254dfab3a","services_compact":"facebook,linkedin,telegram,twitter,wechat,more","services_exclude":"100zakladok,addressbar,adfty,adifni,advqr,amazonwishlist,amenme,aim,aolmail,apsense,atavi,baidu,balatarin,beat100,bitly,bizsugar,bland,blogger,blogkeen,blogmarks,bobrdobr,bonzobox,bookmarkycz,bookmerkende,box,buffer,camyoo,care2,citeulike,cleanprint,cleansave,cloob,technerd,link,cosmiq,cssbased,delicious,diary_ru,digg,diggita,diigo,douban,draugiem,edcast,email,mailto,evernote,exchangle,stylishhome,fabulously40,facebook_like,messenger,facenama,informazione,thefancy,fashiolista,favable,faves,favorites,favoritus,financialjuice,flipboard,folkd,foursquare,thefreedictionary,gg,gmail,govn,google_plusone,google,google_classroom,googletranslate,google_plusone_share,hackernews,hatena,hedgehogs,historious,hootsuite,houzz,w3validator,indexor,instapaper,iorbix,jappy,kaixin,kakao,ketnooi,kindleit,kledy,lidar,lineme,linkuj,livejournal,mymailru,margarin,markme,meinvz,memonic,memori,mendeley,meneame,mixi,moemesto,mrcnetworkit,myspace,myvidster,n4g,naszaklasa,netvibes,netvouz,newsmeback,newsvine,nujij,nurses_lounge,odnoklassniki_ru,oknotizie,openthedoor,hotmail,oyyla,pafnetde,pdfmyurl,pinboard,pinterest_share,pinterest,plurk,pocket,posteezy,print,printfriendly,pusha,qrsrc,quantcast,qzone,reddit,rediff,renren,researchgate,retellity,safelinking,scoopit,sinaweibo,skyrock,slack,smiru,sms,sodahead,spinsnap,startaid,startlap,studivz,stuffpit,stumbleupon,stumpedia,supbro,surfingbird,svejo,symbaloo,taringa,tencentqq,tencentweibo,thisnext,trello,tuenti,tumblr,typepad,urlaubswerkde,viadeo,viber,virb,visitezmonsite,vk,vkrugudruzei,voxopolis,vybralisme,wanelo,internetarchive,sharer,domaintoolswhois,wishmindr,wordpress,wykop,xing,yahoomail,yammer,yookos,yoolink,yorumcuyum,youmob,yummly,yuuby,zakladoknet,ziczac,zingme,","data_track_clickback":true,"ui_508_compliant":true,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":true,"ui_language":"en","data_ga_property":"UA-35049009-1","data_ga_social":true},"addthis_share":{"templates":{"twitter":"{{title}} {{url}}"}}},"statistics":{"data":{"nid":"545043"},"url":"\/modules\/statistics\/statistics.php"},"colorbox_node":{"width":"600px","height":"600px"}});</script>
+
+
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+<link rel="stylesheet" type="text/css" href="//advertisement2.bizedge.com/www/images/ads/ad-scripts/my-embed/my-embed.css" media="screen" />
+<link href="https://fonts.googleapis.com/css?family=Domine:400,700|Montserrat:400,400i,700,700i" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="57x57" href="/sites/default/files/icon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/sites/default/files/icon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/sites/default/files/icon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/sites/default/files/icon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/sites/default/files/icon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/sites/default/files/icon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/sites/default/files/icon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/sites/default/files/icon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/sites/default/files/icon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/sites/default/files/icon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/sites/default/files/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/sites/default/files/icon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/sites/default/files/icon/favicon-16x16.png">
+<link rel="manifest" href="/sites/default/files/icon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/sites/default/files/icon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<script async='async' src="https://www.googletagservices.com/tag/js/gpt.js" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+	  var googletag = googletag || {};
+	  googletag.cmd = googletag.cmd || [];
+  </script>
+
+<link rel="stylesheet" href="//s3-ap-southeast-1.amazonaws.com/adsproposal.bizedge.com.my/Sean/audio/css/green-audio-player.css">
+<script src="//s3-ap-southeast-1.amazonaws.com/adsproposal.bizedge.com.my/Sean/audio/js/green-audio-player.js" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+
+<script src='//edge-microsite.s3-ap-southeast-1.amazonaws.com/ceomorningbrief/prod/js/modulobox.min.js' type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src='//edge-microsite.s3-ap-southeast-1.amazonaws.com/ceomorningbrief/prod/js/page.modulobox.config.js' type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<link rel="stylesheet" href="//edge-microsite.s3-ap-southeast-1.amazonaws.com/ceomorningbrief/prod/css/modulobox.css">
+<link rel="stylesheet" href="//edge-microsite.s3-ap-southeast-1.amazonaws.com/ceomorningbrief/prod/css/tem-ceo-page.css">
+<link href="//edge-microsite.s3-ap-southeast-1.amazonaws.com/ceomorningbrief/prod/css/bs4.css" rel="stylesheet" />
+<link href="//edge-microsite.s3-ap-southeast-1.amazonaws.com/ceomorningbrief/prod/css/tem-ceo-table.css" rel="stylesheet" />
+
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+	!function(f,b,e,v,n,t,s){
+		if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+		n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t,s)
+	}
+	(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '599934940913280');
+	fbq('track', 'PageView');
+  </script>
+<noscript>
+	<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=599934940913280&ev=PageView&noscript=1"/>
+  </noscript>
+
+
+
+<script src='/sites/all/themes/the_edge/js/dfp_ros_20190422.js' type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-545043 node-type-article i18n-">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P7F72WB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div class="body">
+<div class="wallpaperad"> <div class="region region-wallpaperad">
+<div id="block-block-48" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+
+<div id='div-gpt-ad-1491470595168-0'>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-0'); });
+</script>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<header id="header">
+<div class="topbar">
+<div class="logo-mobile">
+<a href="/" title="Home" rel="home" id="logo-mobile" style="float:left;">
+<img src="https://assets.theedgemarkets.com/logo_0_0.png" alt="Home" />
+</a>
+</div>
+<div class="region region-topbar">
+<div id="block-block-5" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<link type="text/css" rel="stylesheet" href="//advertisement2.bizedge.com/www/images/ads/ad-css/sto-first.css?=ver6" />
+<style>
+@media only screen and (max-width: 991px) {
+    .my-desktop-reader {
+        display: none;
+    }
+}
+</style>
+<div class="container">
+<div id="language">
+<div class="desktop">
+<h2>Edition:</h2>
+<ul class="language-switcher-locale-url">
+<li class="active">Malaysia</li>
+<li><a href="https://www.theedgesingapore.com/" target="_blank">Singapore</a></li>
+</ul>
+</div>
+<div class="mobile">
+<ul class="language-switcher-locale-url-dropdown">
+<li class="active">MY <i class="fa fa-chevron-down"></i></li>
+<li class="dropdown-content"><a href="https://www.theedgesingapore.com/" target="_blank">SG</a></li>
+</ul>
+</div>
+</div>
+<div id="top-right">
+
+<div class="my-desktop-reader" style="float: left; line-height: 1em; text-align: right; font-size: 10px; padding-top: 7px; font-weight: bold;">
+
+<a href="https://www.theedgemarkets.com/newsletter/subscriptions" target="_blank" style="margin-left: 10px;">
+<img src="//assets.theedgemarkets.com/pictures/tem-desktop-CMB-subcribe.png?=register"></a>
+<a href="https://subscribe.theedgemalaysia.com/" target="_blank" style="margin-left: 10px;">
+<img src="//assets.theedgemarkets.com/pictures/tem-desktop-subcribe.png"></a>
+
+</div>
+<div class="social" style="margin-top:0;">
+<a href="https://www.facebook.com/theedgemalaysia" target="_blank"><img src="/sites/all/themes/the_edge/images/social/facebook.png"></a>
+<a href="https://twitter.com/theedgemalaysia" target="_blank"><img src="/sites/all/themes/the_edge/images/social/twitter.png"></a>
+
+<a href="https://www.instagram.com/theedgemalaysia/" target="_blank"><img src="/sites/all/themes/the_edge/images/social/instagram.png"></a>
+
+
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="header-main">
+<div class="container">
+<div class="header-main-inner">
+<div class="row">
+<div class="logo-desktop col-lg-2 col-md-3 col-sm-12 col-xs-12">
+<h1 class="logo">
+<a href="/" title="Home" rel="home" id="logo">
+<img src="https://assets.theedgemarkets.com/logo_0_0.png" alt="Home" />
+</a>
+</h1>
+</div>
+<div class="col-lg-10 col-md-9 col-sm-12 col-xs-12 header-right">
+<div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 header-banner">
+<div class="header-right-inner">
+<div class="region region-header-banner">
+<div id="block-block-16" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+
+<div id='div-gpt-ad-1491470595168-1' style="margin-bottom: -25px;">
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-1'); });
+</script>
+</div> </div>
+</div>
+</div>
+</div>
+<div id="block-block-62" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+
+<div id='div-gpt-ad-1491470595168-3'>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-3'); });
+</script>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 header-clock" style="text-align: center;">
+<div class="header-right-inner">
+<div class="region region-header-clock">
+<div id="block-block-20" class="block block-block col-lg-2 clock no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+
+
+<div id='div-gpt-ad-1491470595168-2'>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-2'); });
+</script>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="main-menu ">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 area-main-menu">
+<div class="top-search">
+<div class="search-region">
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+// (function ($) {
+	jQuery( document ).ready(function( jQuery ) {
+		jQuery(".attr-nav li.search a").click(function(){
+    		jQuery(".search-region").fadeIn();
+	  	});
+
+	 	 jQuery("#btn-search-close").on("click", function(){
+       		jQuery(".search-region").fadeOut();
+      	});
+	});
+
+	jQuery(document).keypress(function(event){
+		// console.log("Code : " + event.keyCode);
+    if(event.keyCode == 13){
+		var keywords = jQuery("#search-input").val();
+		if (keywords!="") {
+			jQuery('#btn-search-go').click();
+		}
+	}
+	if(event.keyCode == 27) jQuery('#btn-search-close').click();
+
+	});
+
+// })(jQuery);
+</script>
+<svg class="hidden">
+<defs>
+<symbol id="icon-arrow" viewBox="0 0 24 24">
+<title>arrow</title>
+<polygon points="6.3,12.8 20.9,12.8 20.9,11.2 6.3,11.2 10.2,7.2 9,6 3.1,12 9,18 10.2,16.8 " />
+</symbol>
+<symbol id="icon-drop" viewBox="0 0 24 24">
+<title>drop</title>
+<path d="M12,21c-3.6,0-6.6-3-6.6-6.6C5.4,11,10.8,4,11.4,3.2C11.6,3.1,11.8,3,12,3s0.4,0.1,0.6,0.3c0.6,0.8,6.1,7.8,6.1,11.2C18.6,18.1,15.6,21,12,21zM12,4.8c-1.8,2.4-5.2,7.4-5.2,9.6c0,2.9,2.3,5.2,5.2,5.2s5.2-2.3,5.2-5.2C17.2,12.2,13.8,7.3,12,4.8z" /><path d="M12,18.2c-0.4,0-0.7-0.3-0.7-0.7s0.3-0.7,0.7-0.7c1.3,0,2.4-1.1,2.4-2.4c0-0.4,0.3-0.7,0.7-0.7c0.4,0,0.7,0.3,0.7,0.7C15.8,16.5,14.1,18.2,12,18.2z" />
+</symbol>
+<symbol id="icon-search" viewBox="0 0 24 24">
+<title>search</title>
+<path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z" />
+</symbol>
+<symbol id="icon-cross" viewBox="0 0 24 24">
+<title>cross</title>
+<path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z" />
+</symbol>
+</defs>
+</svg>
+<div class="search search--open">
+<button id="btn-search-close" class="btn btn--search-close" aria-label="Close search form"><svg class="icon icon--cross"><use xlink:href="#icon-cross"></use></svg></button>
+<form id="search__form" class="search__form" action="/search-results">
+<input id="search-input" class="search__input" name="keywords" type="search" placeholder="" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus />
+<button id="btn-search-go" class="btn btn--search"><svg class="icon icon--search"><use xlink:href="#icon-search"></use></svg></button>
+</form>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+   /*
+(function ($) {
+
+
+    $( "#search-input" ).autocomplete({
+      source: "/autocomplete/data.php?limit=10&index=article&dataType=json",
+      minLength: 2,
+
+    })
+	.autocomplete( "instance" )._renderItem = function( ul, item ) {
+      return $( "<li>" )
+        .append( "<div class='ui-menu-item-wrapper'><a href='http://dev.theedgemarkets.com/" + item.alias +"'>" + item.title.substring(0,80) + "<a></div>" )
+        .appendTo( ul );
+    };
+})(jQuery);
+*/
+  </script>
+<div class="search__suggestion">
+<p>Ways to search theedgemarkets.com content</p>
+<p>by Title: @title "the edge malaysia"</p>
+<p>by Author: @author "lucas wong”</p>
+<p>by category: @category "corporate" "hot stock” </p>
+<p>Combine search:  "high speed rail" @author "Bhattacharjee" @category "From the Edge"</p>
+<p>Searching either words : 1MDB MAS </p>
+<p>Searching all words : “Genting Berhad”</p>
+<p>Searching Chinese phrase : “马电讯”</p>
+</div>
+</div>
+
+<div id='div-gpt-ad-1491469461356-0'>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491469461356-0'); });
+</script>
+</div>
+</script>
+</div>
+<div class="attr-nav" style="border-bottom-color: #ffffff;">
+<ul>
+<li class="search"><a href="#" style="padding: 10px 100px 10px 0; color: lightgray;">News Search</a></li>
+<li class="search"><a href="#"><i class="fa fa-search fa-lg"></i></a></li>
+</ul>
+</div>
+</div>
+<div class="region region-main-menu">
+<div id="block-tb-megamenu-main-menu" class="block block-tb-megamenu no-bg no-margin no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<div class="tb-megamenu tb-megamenu-main-menu">
+<button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button collapsed" type="button">
+<i class="fa fa-reorder"></i>
+<i class="fa fa-times"></i>
+</button>
+<div class="nav-collapse  always-show">
+<ul class="tb-megamenu-nav nav level-0 items-8">
+<li data-id="218" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+<a href="/">
+Home </a>
+</li>
+<li data-id="436" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+<a href="/categories/corporate" title="Corporate">
+Corporate </a>
+</li>
+<li data-id="680" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+<a href="/" class="dropdown-toggle" title="Sections">
+Sections <i class="fa fa-chevron-down"></i>
+</a>
+<div data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+<div class="mega-dropdown-inner">
+<div class="tb-megamenu-row row-fluid">
+<div data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-1" class="tb-megamenu-column span12  mega-col-nav">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-1 items-8">
+<li data-id="2366" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/categories/malaysia">
+Malaysia </a>
+</li>
+<li data-id="2367" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/world-view">
+World </a>
+</li>
+<li data-id="1945" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/categories/options">
+Options </a>
+</li>
+<li data-id="433" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/categories/city-country">
+City & Country </a>
+</li>
+<li data-id="422" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/categories/wealth">
+Wealth </a>
+</li>
+<li data-id="1631" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/categories/enterprise">
+Enterprise </a>
+</li>
+<li data-id="1632" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/opinion">
+Opinion </a>
+</li>
+<li data-id="2526" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="https://digitaledge.theedgemarkets.com" target="_blank" title="DigitalEdge">
+DigitalEdge </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li data-id="1634" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+<a href="/video-feeds/featured" class="dropdown-toggle">
+The Edge TV <i class="fa fa-chevron-down"></i>
+</a>
+<div data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+<div class="mega-dropdown-inner">
+<div class="tb-megamenu-row row-fluid">
+<div data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-2" class="tb-megamenu-column span12  mega-col-nav">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-1 items-8">
+<li data-id="1862" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/video-feeds/evening5">
+Evening 5 </a>
+</li>
+<li data-id="1636" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/video-feeds/talkingedge">
+Talking Edge </a>
+</li>
+<li data-id="1637" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/video-feeds/behindthestory">
+Behind The Story </a>
+</li>
+<li data-id="1638" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/video-feeds/justsaying">
+#JustSaying </a>
+</li>
+<li data-id="1815" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/video-feeds/upstart">
+UPSTART </a>
+</li>
+<li data-id="1639" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/video-feeds/fridaytakeaway">
+Friday Takeaway </a>
+</li>
+<li data-id="1640" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/video-feeds/news">
+News </a>
+</li>
+<li data-id="2421" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/video-feeds/morningcall">
+Morning Call </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li data-id="1641" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+<a href="/" class="dropdown-toggle" title="Others">
+Others <i class="fa fa-chevron-down"></i>
+</a>
+<div data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+<div class="mega-dropdown-inner">
+<div class="tb-megamenu-row row-fluid">
+<div data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-3" class="tb-megamenu-column span12  mega-col-nav">
+<div class="tb-megamenu-column-inner mega-inner clearfix">
+<ul class="tb-megamenu-subnav mega-nav level-1 items-4">
+<li data-id="1944" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/others/politics-government">
+Politics and Policy </a>
+</li>
+<li data-id="1643" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/others/automotive">
+Automotive </a>
+</li>
+<li data-id="1642" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/others/technology">
+Technology </a>
+</li>
+<li data-id="1644" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+<a href="/others/aviation">
+Aviation </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li data-id="423" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+<a href="/categories/news" title="新闻">
+新闻 </a>
+</li>
+<li data-id="2417" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+<a href="/categories/frankly-speaking">
+Frankly Speaking </a>
+</li>
+<li data-id="1645" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+<a href="https://www.edgeprop.my/" target="_blank" title="EdgeProp.my">
+EdgeProp.my </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="trending-now">
+<div class="container">
+<h4>Trending Now</h4> <div class="region region-trending-now">
+<div id="block-trending-trending-now-display" class="block block-trending no-margin pull-left no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<div class="view view-tags view-id-tags view-display-id-trending_now list-tags view-dom-id-2831552bed27529c30e297959632f6ee">
+<div class="view-content">
+<div class="item-list">
+<div class="view-list">
+<ul><li class="view-list-item views-row views-row-1 views-row-odd views-row-first"><div class="views-field views-field-name"><span class="field-content"><a href='https://www.theedgemarkets.com/article/highlights-sc-annual-report-2020'>SC Annual Report 2020</a></span></div></li><li class="view-list-item views-row views-row-1 views-row-odd views-row-first"><div class="views-field views-field-name"><span class="field-content"><a href='https://www.theedgemarkets.com/highlights-shortterm-economy-recovery-plan'>Economic Recovery Plan</a></span></div></li><li class="view-list-item views-row views-row-1 views-row-odd views-row-first"><div class="views-field views-field-name"><span class="field-content"><a href='https://www.theedgemarkets.com/covid19-fundraiser?=1031502129'>The Edge Covid-19 funds</a></span></div></li></ul>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<div id="block-block-24" class="block block-block today no-margin pull-right no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+27 May 2021. Thursday </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div role="main" class="main main-page">
+<div class="clearfix"></div>
+<div class="before_content area">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="region region-before-content">
+<div id="block-block-69" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+
+<div id='div-gpt-ad-1465288207284-0'>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465288207284-0'); });
+</script>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div id="content" class="content content-full">
+<div class="container">
+<div class="content-main-inner">
+<div class="row">
+<div id="page-main-content" class="main-content col-xs-12 col-md-8 sb-r ">
+<div class="main-content-inner">
+<div class="content-top">
+<div class="region region-content-top">
+<div id="block-block-35" class="block block-block google-translate no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<div id="google_translate_element"></div><script type="8ee3660dea3b9edabd5f8813-text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,de,el,es,fa,fr,ga,hi,id,it,iw,ja,jv,ko,la,lo,mn,ms,pa,pt,ru,sv,ta,th,tl,uk,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="8ee3660dea3b9edabd5f8813-text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="content-main">
+<div class="region region-content">
+<div id="block-system-main" class="block block-system no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<article id="node-545043" class="node node-article und post post-large blog-single-post" about="/article/gdex-partners-tasco-improve-logistics-delivery-services" typeof="sioc:Item foaf:Document">
+<div class="post-tags">
+<span class="post-meta-tag"><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/categories/malaysia" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Malaysia</a></div><div class="field-item odd" rel="dc:subject"><a href="/categories/corporate" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Corporate</a></div></div></div> </span>
+<div class="clearfix"></div>
+</div>
+<div class="post-options">
+<span class="updated"><div class="field field-name-field-updated field-type-list-boolean field-label-hidden"><div class="field-items"><div class="field-item even"></div></div></div></span>
+<div class="clearfix"></div>
+</div>
+<div class="post-title">
+<h1>GDEX partners Tasco to improve logistics delivery services</h1>
+<span property="dc:title" content="GDEX partners Tasco to improve logistics delivery services" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span> </div>
+<div class="content-first">
+<div class="post-meta" style="float:left;">
+<span class="post-meta-user"><a href="/author/Tan Siew Mung "><div class="field field-name-field-author field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Tan Siew Mung </div></div></div></a></span>
+<span>/</span>
+<span class="post-meta-source"><a href="/source/theedgemarkets.com"><div class="field field-name-field-source field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">theedgemarkets.com</div></div></div></a></span>
+<br class="clearfix" />
+<span class="post-created">December 08, 2020 18:57 pm +08</span>
+</div>
+<div class="post-addthis"><div class="field field-name-field-addthis-article field-type-addthis field-label-hidden"><div class="field-items"><div class="field-item even"><div class="addthis_toolbox addthis_default_style addthis_32x32_style round" addthis:title="GDEX partners Tasco to improve logistics delivery services - The Edge Markets" addthis:url="http://www.theedgemarkets.com/article/gdex-partners-tasco-improve-logistics-delivery-services"><a href="#" class="addthis_button_facebook"></a>
+<a href="#" class="addthis_button_twitter"></a>
+<a href="#" class="addthis_button_whatsapp"></a>
+<a href="#" class="addthis_button_linkedin"></a>
+<a href="#" class="addthis_button_telegram"></a>
+<a href="#" class="addthis_button_email"></a>
+</div>
+</div></div></div></div>
+<div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+<div>
+<div class="row8">
+
+<div id='div-gpt-ad-1491470595168-4'>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-4'); });
+		</script>
+</div>
+</div>
+<div id="post-content" class="post-content">
+<div class="article_content">
+
+<div class="article-getimage"><center><img src="https://assets.theedgemarkets.com/GD-Express-Carrier_www.gdexpress.com__13.jpg?_S79NsHzZSv12XVYxHDdrSpldpNaSQ2N" alt="GDEX partners Tasco to improve logistics delivery services"></center></div>
+<div class="text-size"><div class="text-inner"> <a href="javascript:;" class="changer" id="text_resize_decrease"><sup>-</sup>A</a> <img class="text-a" src="/sites/all/modules/text_resize/a.gif" /> <a href="javascript:;" class="changer" id="text_resize_increase"><sup>+</sup>A</a><div id="text_resize_clear"></div> </div></div> 
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>KUALA LUMPUR (Dec 8): GD Express Carrier Bhd (GDEX) and Tasco Bhd have inked a memorandum of understanding (MoU) to enhance logistics delivery services between end consumers in Malaysia with domestic and international destinations.</p>
+<p>Both parties told Bursa Malaysia that under the MoU, they will develop and organise joint marketing activities utilising the network and capabilities of both entities; build on each other’s strengths and comparative advantages, particularly to advance the development of seamless connectivity between e-commerce platforms and other social commerce platforms with logistics fulfilment services; and enhance knowledge sharing with a view to foster improved coordination and synergies.</p>
+<p>The mutual benefits that are expected to accrue from this collaboration include the ability to set industry-leading standards in logistics fulfilment services for both parties’ customers, said the companies.</p>
+<p>Tasco is able to leverage GDEX’s last-mile fulfilment capabilities as well as cooperation with its strategic partners, namely Yamato Holdings Co Ltd and Singapore Post Ltd, as well as its presence in Indonesia via PT Satria Antaran Prima Tbk and in Vietnam via Noi Bai Express and Trading Joint Stock Company, while GDEX is able to tap into Tasco’s international logistics network, as well as its local cold supply chain infrastructure as well as convenience retail logistics network, they explained.</p>
+<p>Both parties will also benefit from greater e-commerce integration between Tasco’s fulfilment solutions offering “e-Tower” with GDEX’s online shipping platform “myGDEX”, allowing coverage of major e-marketplaces and web stores to be integrated with express courier services.</p>
+<p>They added that they will also benefit from greater marketing opportunities for both parties to new and existing multinational businesses through the provision of a wider range of logistics fulfilment services, and facilitate sharing of resources and increase economies of scale.</p>
+<p>Both parties opined that the MoU serves as an opportunity for the companies to achieve the shared vision of enhanced and seamless logistics delivery services for customers.</p>
+<p>“This collaboration is also expected to open up new areas of cooperation for greater marketing activities and business development, as well as cater for more complex logistics demand for customers who require, for example, inventory management, shorter delivery lead time, e-marketplace management and possibly temperature-controlled shipments,” they said.</p>
+<p>In a separate statement, Tasco’s chief executive officer (CEO) Andy Lee said the expansion of last-mile logistics capability in Malaysia through the tie-up with GDEX will be a new growth driver for Tasco.</p>
+<p>“We can better synergise our resources, especially in serving the 3,000 petrol kiosks and convenience retail outlets throughout the country, as well as providing a new avenue to market other services of Tasco, such as the cold supply chain logistics services,” he added</p>
+<p>GDEX’s CEO and managing director Teong Teck Lean also said, “The team-up with Tasco and to be able to ride on the platform of e-Tower and our digital platform myGDEX, allowing the integration of the upstream and downstream resources along the logistics supply chain will give us the ability to provide a better express delivery experience for our customers.”</p>
+<p>GDEX closed 2.5 sen or 5.88% higher at 45 sen, valuing the company at RM2.54 billion. Meanwhile, Tasco closed 35 sen or 14.4% higher at RM2.78, valuing the company at RM556 million.</p>
+</div></div></div><div class="field field-name-field-edited-by- field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Lam Jian Wyn</div></div></div> </div>
+</div>
+</article>
+
+</div>
+</div>
+</div>
+</div>
+<div id="block-block-50" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<div class="row9">
+
+<div id='div-gpt-ad-1491470595168-5'>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-5'); });
+</script>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="content-bottom">
+<div class="region region-content-bottom">
+<div id="block-simplenews-4902" class="block block-simplenews newsletter-default col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
+<div class="block-inner clearfix">
+<div class="block-title">
+<h2><span>Subscribe to Mid-day email alert</span></h2>
+</div>
+<div class="block-content">
+<div>
+<p>We deliver news to your inbox daily</p>
+<form class="simplenews-subscribe" action="/article/gdex-partners-tasco-improve-logistics-delivery-services" method="post" id="simplenews-block-form-4902" accept-charset="UTF-8"><div><input placeholder="Email Address" type="email" id="edit-mail" name="mail" size="20" class="form-text form-email required" /><input type="submit" id="edit-submit" name="op" value="Subscribe" class="btn-primary btn form-submit" /><input type="hidden" name="form_build_id" value="form-9tL3cXUzn0B8iU-IDBxrKmbdrhC2CmRuOSU51idGN88" />
+<input type="hidden" name="form_id" value="simplenews_block_form_4902" />
+</div></form>
+</div>
+</div>
+</div>
+</div>
+<div id="block-block-34" class="block block-block related no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<style>
+.related {
+    margin-bottom: 40px;
+}
+</style>
+
+<script type="8ee3660dea3b9edabd5f8813-text/javascript" src="/suggestions/_related.js?20190228"></script> </div>
+</div>
+</div>
+</div>
+<div id="block-block-51" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+
+<div id='div-gpt-ad-1491470595168-6'>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-6'); });
+</script>
+</div> </div>
+</div>
+</div>
+</div>
+<div id="block-views-7d822a1a87e40f6442e1cd85c9a596ee" class="block block-views style-higlight ">
+<div class="block-inner clearfix">
+<div class="block-title">
+<h2><span>Featured Videos</span></h2>
+</div>
+<div class="block-content">
+<div>
+<div class="view view-featured-videos view-id-featured_videos view-display-id-featured_video_article view-dom-id-249d8ae3614e92daa6acb2090f08a885">
+<div class="view-header">
+<a class="featured-more-link" href="/video-feeds/featured"><img src="/sites/all/themes/the_edge/images/more.png" /></a> </div>
+<div class="view-content">
+<div class="view-videos-block">
+<div class="row">
+<div class="owl-carousel push-bottom posts-video control-top" data-plugin-options='{"items": 3, "itemsDesktop" : [1199,3], "itemsDesktopSmall" : [979,3], "itemsTablet": [768,2], "itemsTabletSmall": [479,1], "itemsMobile" : false, "autoHeight": true, "singleItem": false, "pagination": false, "autoPlay": false}'>
+<div class="field-content"><div class="post-block">
+<div class="post-image">
+<a href="/content/morning-call-27521"><img src="https://s2.dmcdn.net/v/S-tp01WhkX49uGt1e/x240" /></a>
+</div>
+<div class="post-meta">
+<div class="post-created">
+<span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-05-27T06:30:03+08:00">27 May | 06:30am</span>
+</div>
+<div class="post-categories">
+<a href="/video-feeds/morningcall" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Morning Call</a>, <a href="/video-feeds/featured" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Featured</a>
+</div>
+</div>
+<div class="post-title">
+<a href="/content/morning-call-27521">MORNING CALL: 27/5/21</a>
+</div>
+</div></div>
+<div class="field-content"><div class="post-block">
+<div class="post-image">
+<a href="/content/evening-5-covid19-cases-top-7000"><img src="https://s1.dmcdn.net/v/S-unq1WhFa8Pi5pJ_/x240" /></a>
+</div>
+<div class="post-meta">
+<div class="post-created">
+<span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-05-25T21:17:45+08:00">25 May | 09:17pm</span>
+</div>
+<div class="post-categories">
+<a href="/video-feeds/evening5" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Evening 5</a>, <a href="/video-feeds/featured" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Featured</a>
+</div>
+</div>
+<div class="post-title">
+<a href="/content/evening-5-covid19-cases-top-7000">EVENING 5: Covid-19 cases top 7,000</a>
+</div>
+</div></div>
+<div class="field-content"><div class="post-block">
+<div class="post-image">
+<a href="/content/morning-call-25521"><img src="https://s2.dmcdn.net/v/S-j-o1Wh4L4gAjyBf/x240" /></a>
+</div>
+<div class="post-meta">
+<div class="post-created">
+<span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-05-25T06:30:40+08:00">25 May | 06:30am</span>
+</div>
+<div class="post-categories">
+<a href="/video-feeds/morningcall" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Morning Call</a>, <a href="/video-feeds/featured" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Featured</a>
+</div>
+</div>
+<div class="post-title">
+<a href="/content/morning-call-25521">MORNING CALL: 25/5/21</a>
+</div>
+</div></div>
+<div class="field-content"><div class="post-block">
+<div class="post-image">
+<a href="/content/evening-5-myeg-inks-mou-covid19-breathalyser"><img src="https://s2.dmcdn.net/v/S-kio1Wgvm-8aOllb/x240" /></a>
+</div>
+<div class="post-meta">
+<div class="post-created">
+<span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-05-24T20:29:50+08:00">24 May | 08:29pm</span>
+</div>
+<div class="post-categories">
+<a href="/video-feeds/featured" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Featured</a>, <a href="/video-feeds/evening5" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Evening 5</a>
+</div>
+</div>
+<div class="post-title">
+<a href="/content/evening-5-myeg-inks-mou-covid19-breathalyser">EVENING 5: MyEG inks MoU for Covid-19 breathalyser</a>
+</div>
+</div></div>
+<div class="field-content"><div class="post-block">
+<div class="post-image">
+<a href="/content/edge-weekly-citi-malaysia-spotlight"><img src="https://s2.dmcdn.net/v/S-iJD1WgqLisq61Q2/x240" /></a>
+</div>
+<div class="post-meta">
+<div class="post-created">
+<span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-05-24T14:19:24+08:00">24 May | 02:19pm</span>
+</div>
+<div class="post-categories">
+<a href="/video-feeds/behindthestory" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Behind the Story</a>, <a href="/video-feeds/featured" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Featured</a>
+</div>
+</div>
+<div class="post-title">
+<a href="/content/edge-weekly-citi-malaysia-spotlight">EDGE WEEKLY: Citi Malaysia in the spotlight</a>
+</div>
+</div></div>
+<div class="field-content"><div class="post-block">
+<div class="post-image">
+<a href="/content/morning-call240521"><img src="https://s2.dmcdn.net/v/S-MOB1Wgnr2H2DzQu/x240" /></a>
+</div>
+<div class="post-meta">
+<div class="post-created">
+<span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-05-24T06:30:00+08:00">24 May | 06:30am</span>
+</div>
+<div class="post-categories">
+<a href="/video-feeds/morningcall" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Morning Call</a>, <a href="/video-feeds/featured" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Featured</a>
+</div>
+</div>
+<div class="post-title">
+<a href="/content/morning-call240521">MORNING CALL:24/05/21</a>
+</div>
+</div></div>
+<div class="field-content"><div class="post-block">
+<div class="post-image">
+<a href="/content/evening-5-nsc-agrees-stricter-mco-30"><img src="https://s1.dmcdn.net/v/S-OXo1WgoV4WlMJME/x240" /></a>
+</div>
+<div class="post-meta">
+<div class="post-created">
+<span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-05-21T21:45:00+08:00">21 May | 09:45pm</span>
+</div>
+<div class="post-categories">
+<a href="/video-feeds/featured" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Featured</a>, <a href="/video-feeds/evening5" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Evening 5</a>
+</div>
+</div>
+<div class="post-title">
+<a href="/content/evening-5-nsc-agrees-stricter-mco-30">EVENING 5: NSC agrees to stricter MCO 3.0</a>
+</div>
+</div></div>
+<div class="field-content"><div class="post-block">
+<div class="post-image">
+<a href="/content/morning-call210521"><img src="https://s2.dmcdn.net/v/S-CQA1Wflz4D328iu/x240" /></a>
+</div>
+<div class="post-meta">
+<div class="post-created">
+<span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-05-21T06:30:20+08:00">21 May | 06:30am</span>
+</div>
+<div class="post-categories">
+<a href="/video-feeds/morningcall" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Morning Call</a>, <a href="/video-feeds/featured" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Featured</a>
+</div>
+</div>
+<div class="post-title">
+<a href="/content/morning-call210521">MORNING CALL:21/05/21</a>
+</div>
+</div></div>
+<div class="field-content"><div class="post-block">
+<div class="post-image">
+<a href="/content/evening-5-aax-books-record-quarterly-loss"><img src="https://s1.dmcdn.net/v/S-DlZ1WfbiT62Ng-u/x240" /></a>
+</div>
+<div class="post-meta">
+<div class="post-created">
+<span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-05-20T20:50:24+08:00">20 May | 08:50pm</span>
+</div>
+<div class="post-categories">
+<a href="/video-feeds/evening5" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Evening 5</a>, <a href="/video-feeds/featured" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Featured</a>
+</div>
+</div>
+<div class="post-title">
+<a href="/content/evening-5-aax-books-record-quarterly-loss">EVENING 5: AAX books record quarterly loss</a>
+</div>
+</div></div>
+<div class="field-content"><div class="post-block">
+<div class="post-image">
+<a href="/content/morning-call-20521"><img src="https://s1.dmcdn.net/v/S-3AI1WfQvvFgGEq1/x240" /></a>
+</div>
+<div class="post-meta">
+<div class="post-created">
+<span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-05-20T06:30:10+08:00">20 May | 06:30am</span>
+</div>
+<div class="post-categories">
+<a href="/video-feeds/morningcall" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Morning Call</a>, <a href="/video-feeds/featured" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Featured</a>
+</div>
+</div>
+<div class="post-title">
+<a href="/content/morning-call-20521">MORNING CALL: 20/5/21</a>
+</div>
+</div></div> </div>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 sidebar sidebar-right">
+<div class="sidebar-inner">
+<div class="region region-sidebar-right">
+<div id="block-block-17" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<div class="ad mrec1" style="display:inline-block;">
+
+<div id='div-gpt-ad-1491470595168-7' style="text-align:center;">
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-7'); });
+</script>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<div id="block-bean-popular-tab" class="block block-bean no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<div class="bean-tab tabs-horizonal ">
+<ul class="nav nav-tabs" role="tablist">
+<li class="active"><a href="#tab-most-read" data-toggle="tab" aria-expanded="true" role="tab">Most Read</a></li>
+<li class=""><a href="#tab-most-watched" data-toggle="tab" aria-expanded="true" role="tab">Most Watched</a></li>
+</ul>
+<div class="clearfix"></div>
+<div class="tab-content">
+<div class=" tab-pane fade in active" id="tab-most-read">
+<div class="field field-name-field-tabs-content field-type-blockreference field-label-hidden"><div class="field-items"><div class="field-item even"><div id="block-views-popular-post-new-block" class="block block-views no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<div class="view view-popular-post-new view-id-popular_post_new view-display-id-block post-style-list small view-dom-id-c7685cbc8093997374a9c745343578ce">
+<div class="view-content">
+<div class="item-list"> <div class="view-list">
+<ul> <li class="view-list-item views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-nothing"> <span class="field-content"><div class="post-block">
+<div class="post-content">
+<span class="number"> 1 </span>
+<div class="post-title">
+<a href="../../article/some-az-20-applicants-who-could-not-complete-their-applications-yesterday-woke-az">Some AZ 2.0 applicants who could not complete their applications yesterday woke up to vaccination appointments today</a>
+</div>
+</div>
+</div></span> </div></li>
+<li class="view-list-item views-row views-row-2 views-row-even">
+<div class="views-field views-field-nothing"> <span class="field-content"><div class="post-block">
+<div class="post-content">
+<span class="number"> 2 </span>
+<div class="post-title">
+<a href="../../article/tajuddin-has-been-sacked-prasarana-chairman">Tajuddin removed as Prasarana chairman after gaffes in handling LRT crash</a>
+</div>
+</div>
+</div></span> </div></li>
+<li class="view-list-item views-row views-row-3 views-row-odd">
+<div class="views-field views-field-nothing"> <span class="field-content"><div class="post-block">
+<div class="post-content">
+<span class="number"> 3 </span>
+<div class="post-title">
+<a href="../../article/covid19-we-need-prepare-worst-says-health-dg">Covid-19: We need to prepare for the worst, says Health DG</a>
+</div>
+</div>
+</div></span> </div></li>
+<li class="view-list-item views-row views-row-4 views-row-even">
+<div class="views-field views-field-nothing"> <span class="field-content"><div class="post-block">
+<div class="post-content">
+<span class="number"> 4 </span>
+<div class="post-title">
+<a href="../../article/analysts-downgrade-serba-dinamik-after-audit-matter-flagged">Analysts downgrade Serba Dinamik after audit matter flagged</a>
+</div>
+</div>
+</div></span> </div></li>
+<li class="view-list-item views-row views-row-5 views-row-odd views-row-last">
+<div class="views-field views-field-nothing"> <span class="field-content"><div class="post-block">
+<div class="post-content">
+<span class="number"> 5 </span>
+<div class="post-title">
+<a href="../../article/kpower-says-it-run-independently-serba-dinamik-latters-auditors-flag-statutory-audit-matters">KPower says it is run independently from Serba Dinamik as the latter&#039;s auditors flag statutory audit matters</a>
+</div>
+</div>
+</div></span> </div></li>
+</ul> </div>
+</div> </div>
+</div> </div>
+</div>
+</div>
+</div></div></div></div> </div>
+<div class=" tab-pane fade " id="tab-most-watched">
+<div class="field field-name-field-tabs-content field-type-blockreference field-label-hidden"><div class="field-items"><div class="field-item even"><div id="block-views-popular-post-new-block-1" class="block block-views no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<div class="view view-popular-post-new view-id-popular_post_new view-display-id-block_1 post-style-list small view-dom-id-fdf90b21563ac448d371c570e0ca3698">
+<div class="view-content">
+<div class="item-list"> <div class="view-list">
+<ul> <li class="view-list-item views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-views-conditional"> <span class="field-content"><div class="post-block">
+<div class="post-image">
+<a href="../../content/evening-5-covid19-cases-top-7000"><img src="https://s1.dmcdn.net/v/S-unq1WhFa8Pi5pJ_/x240" /></a>
+</div>
+<div class="post-meta">
+<div class="post-created">
+2021-05-25
+</div>
+<div class="post-categories">
+Evening 5, Featured
+</div>
+</div>
+</div>
+</span> </div></li>
+<li class="view-list-item views-row views-row-2 views-row-even">
+<div class="views-field views-field-views-conditional"> <span class="field-content"><div class="post-block">
+<div class="post-image">
+<a href="../../content/morning-call-27521"><img src="https://s2.dmcdn.net/v/S-tp01WhkX49uGt1e/x240" /></a>
+</div>
+<div class="post-meta">
+<div class="post-created">
+2021-05-26
+</div>
+<div class="post-categories">
+Featured, Morning Call
+</div>
+</div>
+</div>
+</span> </div></li>
+<li class="view-list-item views-row views-row-3 views-row-odd">
+<div class="views-field views-field-views-conditional"> <span class="field-content"><div class="post-block">
+<div class="post-image">
+<a href="../../content/evening-5-myeg-inks-mou-covid19-breathalyser"><img src="https://s2.dmcdn.net/v/S-kio1Wgvm-8aOllb/x240" /></a>
+</div>
+<div class="post-meta">
+<div class="post-created">
+2021-05-24
+</div>
+<div class="post-categories">
+Evening 5, Featured
+</div>
+</div>
+</div>
+</span> </div></li>
+<li class="view-list-item views-row views-row-4 views-row-even">
+<div class="views-field views-field-views-conditional"> <span class="field-content"><div class="post-block">
+<div class="post-image">
+<a href="../../content/morning-call-25521"><img src="https://s2.dmcdn.net/v/S-j-o1Wh4L4gAjyBf/x240" /></a>
+</div>
+<div class="post-meta">
+<div class="post-created">
+2021-05-24
+</div>
+<div class="post-categories">
+Featured, Morning Call
+</div>
+</div>
+</div>
+</span> </div></li>
+<li class="view-list-item views-row views-row-5 views-row-odd views-row-last">
+<div class="views-field views-field-views-conditional"> <span class="field-content"><div class="post-block">
+<div class="post-image">
+<a href="../../content/evening-5-prasarana-chief-has-yet-received-termination-letter"><img src="https://s2.dmcdn.net/v/Sqcw_1WIsXCoi7TuC/x240" /></a>
+</div>
+<div class="post-meta">
+<div class="post-created">
+2021-03-12
+</div>
+<div class="post-categories">
+Evening 5, Featured
+</div>
+</div>
+</div>
+</span> </div></li>
+</ul> </div>
+</div> </div>
+</div> </div>
+</div>
+</div>
+</div></div></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="block-block-54" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<div class="ad buttonside1">
+
+<div id='div-gpt-ad-1491470595168-11'>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-11'); });
+</script>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<div id="block-block-18" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<div class="ad mrec2">
+
+<div id='div-gpt-ad-1491470595168-8' style="text-align:center;">
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-8'); });
+</script>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<div id="block-block-52" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+
+<link rel="stylesheet" href="//advertisement2.bizedge.com/www/images/ads/owl-branded-content/owl-branded-content.css">
+<style>
+      #brandedContent_MRec .owl-theme .owl-controls {
+        margin-top: -4px;
+    }
+    .branded-txt {
+    color: #919191;
+    float: left;
+display:none;
+    }
+    </style>
+
+<section id="branded-content">
+<small class="branded-txt">Branded Content</small>
+<div id="brandedContent_MRec" class="owl-carousel">
+<a href="https://www.theedgemarkets.com/content/advertise/scaling-the-heights-of-corporate-success" target="_blank" class="branded-item" onclick="if (!window.__cfRLUnblockHandlers) return false; ga('send', 'event', 'Branded Content Clicktrack', 'Click', 'Scaling the heights of corporate success');" data-cf-modified-8ee3660dea3b9edabd5f8813-="">
+<img src="https://assets.theedgemarkets.com/cpa-aus-bc24052021-thumb_theedgemarkets.jpg" alt="Scaling the heights of corporate success">
+<div class='branded-title-con'>
+<div class='branded-title makeshort'>Scaling the heights of corporate success</div>
+</div>
+</a>
+<a href="https://www.theedgemarkets.com/content/advertise/volvo-s90-facelift-charts-a-new-way-forward-for-the-flagship-swedish-sedan" target="_blank" class="branded-item" onclick="if (!window.__cfRLUnblockHandlers) return false; ga('send', 'event', 'Branded Content Clicktrack', 'Click', 'Volvo S90 facelift charts a new way forward for the flagship Swedish sedan');" data-cf-modified-8ee3660dea3b9edabd5f8813-="">
+<img src="https://assets.theedgemarkets.com/volvo-bc-thumb-240521_theedgemarkets.jpg" alt="Volvo S90 facelift charts a new way forward for the flagship Swedish sedan">
+<div class='branded-title-con'>
+<div class='branded-title makeshort'>Volvo S90 facelift charts a new way forward for the flagship Swedish sedan</div>
+</div>
+</a>
+</div>
+</section>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+
+	var brandedContentSlider = jQuery("#brandedContent_MRec.owl-carousel");
+	brandedContentSlider.owlCarousel({
+		pagination: true,
+		navigation: false,
+		items: 1,
+		margin: 0,
+		singleItem:true,
+		autoPlay: true,
+		stopOnHover: true,
+		navigationText:false,
+		autoPlay: 5000
+	});
+
+
+
+function textAbstract(el, maxlength = 10, delimiter = " ") {
+	let txt = jQuery(el).text();
+	if (el == null) {
+		return "";
+	}
+	if (txt.length <= maxlength) {
+		return txt;
+	}
+	let t = txt.substring(0, maxlength);
+	let re = /\s+\S*$/;
+	let m = re.exec(t);
+	t = t.substring(0, m.index);
+	return t + "...";
+}
+var maxlengthwanted = 100;
+jQuery('.makeshort').each(function(index, element) {
+		jQuery(element).text(textAbstract(element, maxlengthwanted, " "));
+	});
+
+
+if (jQuery("#brandedContent_MRec .owl-wrapper-outer")[0]){
+    jQuery('.branded-txt').show();
+} else {
+    jQuery('.branded-txt, #branded-content').hide();
+}
+</script>
+
+<div class="ad mrec3">
+
+<div id='div-gpt-ad-1491470595168-9' style="text-align:center;">
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-9'); });
+</script>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<div id="block-block-55" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<div class="ad buttonside2">
+
+<div id='div-gpt-ad-1488534945695-1'>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1488534945695-1'); });
+</script>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<div id="block-block-65" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<div class="ad buttonside3">
+
+<div id='div-gpt-ad-1491470890262-0'>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470890262-0'); });
+</script>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<div id="block-block-56" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<div class="ad halfpage">
+
+<div id='div-gpt-ad-1491470595168-13'>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-13'); });
+</script>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<div id="block-block-77" class="block block-block theedgeproperty col-lg-3 col-md-3 col-sm-12 col-xs-12 no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+
+<style>body.page-taxonomy #block-block-77, #block-block-56{display:none;}</style>
+<div class="widget tep" style="height: 340px; text-align:center; margin-bottom:15px;"><iframe scrolling="no" src="//www.edgeprop.my/iframe/tepads-300x340/" style="border:none; width: 300px; height: 340px;"></iframe></div> </div>
+</div>
+</div>
+</div>
+<div id="block-block-64" class="block block-block theedgeproperty col-lg-3 col-md-3 col-sm-12 col-xs-12 no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+
+<div class="widget tep" style="height: 373px; text-align:center; margin-bottom:0;"><iframe scrolling="no" src="//www.edgeprop.my/iframe/most-read-article.php" style="border:none; width: 300px; height: 373px;"></iframe></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer id="footer" class="footer">
+<div class="footer-center">
+<div class="container">
+<div class="row">
+<div class="region region-footer">
+<div id="block-block-36" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<style>
+    .footer .footer-left {
+    max-width: 710px;
+}
+#footer-desktop-reader {
+    display:inline;
+}
+
+@media screen and (max-width: 1199px) {
+    .footer .footer-right, .footer .footer-left {
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 30px;
+}
+}
+
+@media screen and (max-width: 748px) {
+    #footer-desktop-reader {
+    display:none;
+}
+}
+</style>
+<div class="footer-inner">
+<div class="large-12 columns sister-companies">
+<div class="owl-carousel" data-plugin-options='{"items": 7, "autoHeight": true, "singleItem": false, "pagination": false, "autoPlay":false, "navigation": false}'>
+<div class="item" style="width:171px">
+<img src="/sites/all/themes/the_edge/images/footer/the-edge-group.png">
+</div>
+<div class="item" style="width:125px">
+<img src="https://assets.theedgemarkets.com/pictures/the-edge-malaysia_hi-res.png">
+</div>
+<div class="item" style="width:125px">
+<img src="https://assets.theedgemarkets.com/pictures/SG-logo.png">
+</div>
+
+<div class="item" style="width:70px">
+<img src="https://assets.theedgemarkets.com/pictures/the-edge-markets.png">
+</div>
+<div class="item" style="width:96px">
+<img src="https://assets.theedgemarkets.com/pictures/edgeprop.png">
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="footer-right">
+<a href="https://www.facebook.com/theedgemalaysia" target="_blank"><img src="/sites/all/themes/the_edge/images/social/facebook.png"></a>
+<a href="https://twitter.com/theedgemalaysia" target="_blank"><img src="/sites/all/themes/the_edge/images/social/twitter.png"></a>
+
+<a href="https://www.instagram.com/theedgemalaysia/" target="_blank"><img src="/sites/all/themes/the_edge/images/social/instagram.png"></a>
+
+
+</div>
+<div class="footer-left">
+<a href="https://play.google.com/store/apps/details?id=com.bizedge.theedgemarkets.malaysia" target="_blank"><img src="/sites/all/themes/the_edge/images/footer/playstore.png"></a>
+<a href="https://itunes.apple.com/us/app/the-edge-markets/id990567068?ls=1&amp;mt=8" target="_blank"><img src="/sites/all/themes/the_edge/images/footer/appstore.png"></a>
+<a href="https://subscribe.theedgemalaysia.com/" target="_blank"><img src="https://assets.theedgemarkets.com/subscription.png"></a>
+<div id="footer-desktop-reader">
+<div style="width:100px; text-align:right; display:inline-table; font-size:9px; font-weight: bold; vertical-align: bottom;">e-Paper <br>Desktop Reader</div>
+<a href="https://digital.theedgemalaysia.com/theedgemediagroup/?group=tem" target="_blank"><img src="https://assets.theedgemarkets.com/pictures/tem-desktop-reader-footer.png" style="margin-left:  -20px;"></a>
+
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="footer-links">
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/content/about-us">About Us</a></li>
+<li><a href="/content/join-us">Join Us</a></li>
+<li><a href="/mycontactus">Contact Us</a></li>
+<li><a href="/content/advertise-us">Advertise with us</a></li>
+
+<li><a href="https://subscribe.theedgemalaysia.com" target="_blank">Subscription</a></li>
+<li><a href="/sitemap">Sitemap</a></li>
+<li><a href="/content/terms-use">Term of use</a></li>
+<li><a href="/privacy">PDPA</a></li>
+</ul>
+</div>
+</div>
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/3.1.3/css/bootstrap-datetimepicker.min.css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.3/css/bootstrapValidator.min.css">
+<style>
+.searchByDate {
+    margin-top: 15px;
+}
+#search__form label {
+    color: #ccc;
+}
+.search-region .btn--search {
+    top: 30px;
+    bottom: inherit;
+}
+.search-region .search__suggestion {
+    margin-top: 3vh;
+}
+.search-region .search__suggestion p {
+    color: #ccc;
+    font-size: 1em;
+}
+form#search__form {
+    transform: inherit;
+    margin-top: 5%;
+}
+.datepicker table, .datepicker tr, .datepicker td, .datepicker th {
+    border-color: #ececec;
+}
+.bootstrap-datetimepicker-widget td.disabled, .bootstrap-datetimepicker-widget td.disabled:hover,
+.bootstrap-datetimepicker-widget td span.old {
+    color: #ccc;
+}
+.search-region .search--open .btn--search-close {
+    z-index: 999;
+}
+/* MOBILE */
+@media (max-width: 767px) {
+.searchByDate .form-group div:last-child {
+    margin-top: 15px;
+}
+}
+</style>
+<div class="searchByDate">
+<div class="row">
+<div class="form-group">
+<div class="col-sm-6">
+<label for="startDate">Start Date</label>
+<input id="startDate" name="fromDate" type="text" class="form-control">
+</div>
+<div class="col-sm-6">
+<label for="endDate">End Date</label>
+<input id="endDate" name="toDate" type="text" class="form-control">
+</div>
+</div>
+</div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.bootstrapvalidator/0.5.3/js/bootstrapValidator.min.js" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.2/moment.min.js" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/3.1.3/js/bootstrap-datetimepicker.min.js" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+jQuery( ".searchByDate" ).appendTo( "#search__form" );
+
+var bindDateRangeValidation = function (f, s, e) {
+    if(!(f instanceof jQuery)){
+			console.log("Not passing a jQuery object");
+    }
+  
+    var jqForm = f,
+        startDateId = s,
+        endDateId = e;
+  
+    var checkDateRange = function (startDate, endDate) {
+        var isValid = (startDate != "" && endDate != "") ? startDate <= endDate : true;
+        return isValid;
+    }
+
+    var bindValidator = function () {
+        var bstpValidate = jqForm.data('bootstrapValidator');
+        var validateFields = {
+            startDate: {
+                validators: {
+                    notEmpty: { message: 'This field is required.' },
+                    callback: {
+                        message: 'Start Date must less than or equal to End Date.',
+                        callback: function (startDate, validator, $field) {
+                            return checkDateRange(startDate, jQuery('#' + endDateId).val())
+                        }
+                    }
+                }
+            },
+            endDate: {
+                validators: {
+                    notEmpty: { message: 'This field is required.' },
+                    callback: {
+                        message: 'End Date must greater than or equal to Start Date.',
+                        callback: function (endDate, validator, $field) {
+                            return checkDateRange(jQuery('#' + startDateId).val(), endDate);
+                        }
+                    }
+                }
+            },
+          	customize: {
+                validators: {
+                    customize: { message: 'customize.' }
+                }
+            }
+        }
+        if (!bstpValidate) {
+            jqForm.bootstrapValidator({
+                excluded: [':disabled'], 
+            })
+        }
+      
+        jqForm.bootstrapValidator('addField', startDateId, validateFields.startDate);
+        jqForm.bootstrapValidator('addField', endDateId, validateFields.endDate);
+      
+    };
+
+    var hookValidatorEvt = function () {
+        var dateBlur = function (e, bundleDateId, action) {
+            jqForm.bootstrapValidator('revalidateField', e.target.id);
+        }
+
+        jQuery('#' + startDateId).on("dp.change dp.update blur", function (e) {
+            jQuery('#' + endDateId).data("DateTimePicker").setMinDate(e.date);
+            dateBlur(e, endDateId);
+        });
+
+        jQuery('#' + endDateId).on("dp.change dp.update blur", function (e) {
+            jQuery('#' + startDateId).data("DateTimePicker").setMaxDate(e.date);
+            dateBlur(e, startDateId);
+        });
+    }
+
+    bindValidator();
+    hookValidatorEvt();
+};
+
+
+jQuery(function () {
+    var sd = new Date(1999, 00, 01,00, 00, 00, 0), ed = new Date();
+
+    /* sd.setFullYear(2000, 00, 01); */
+  
+    jQuery('#startDate, #edit-fromdate').datetimepicker({ 
+      pickTime: false, 
+      format: "YYYY-MM-DD", 
+      defaultDate: sd, 
+      minDate: sd,
+      maxDate: ed 
+    });
+  
+    jQuery('#endDate, #edit-todate').datetimepicker({ 
+      pickTime: false, 
+      format: "YYYY-MM-DD", 
+      defaultDate: ed,
+      minDate: sd,
+      maxDate: ed
+    });
+    
+/*
+    jQuery("#startDate, #edit-fromdate").on("dp.change", function (e) {
+    if( jQuery('#endDate').length > 0) {
+console.log( jQuery('#endDate').data("DateTimePicker"));
+        jQuery('#endDate').data("DateTimePicker").minDate(e.date);
+      }
+     if(jQuery('#edit-todate').length > 0) {
+        jQuery('#edit-todate').data("DateTimePicker").minDate(e.date);
+     }
+    });
+
+    jQuery("#endDate, #edit-todate").on("dp.change", function (e) {
+      if( jQuery('#startDate').length > 0) {
+        jQuery('#startDate').data("DateTimePicker").maxDate(e.date);
+      }
+     if(jQuery('#edit-fromdate').length > 0) {
+        jQuery('#edit-fromdate').data("DateTimePicker").maxDate(e.date);
+     }
+    });
+*/
+    //passing 1.jquery form object, 2.start date dom Id, 3.end date dom Id
+     bindDateRangeValidation(jQuery("#form"), 'startDate', 'endDate');
+     bindDateRangeValidation(jQuery("#result_page_form"), 'edit-fromdate', 'edit-todate');
+});
+</script>
+ </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+ </div>
+</div>
+<div class="copyright">
+<div class="container">
+<div class="copyright-inner">
+<div class="region region-copyright">
+<div id="block-block-3" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+<p>© All rights reserved. 2020. The Edge Communications Sdn. Bhd. </p>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+<div id="block-block-57" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+
+<div id='div-gpt-ad-1491470595168-14'>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-14'); });
+</script>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div id="block-block-58" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+
+<div id='div-gpt-ad-1491470595168-15'>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-15'); });
+</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="block-block-59" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+
+<div id='div-gpt-ad-1491470595168-16'>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-16'); });
+</script>
+</div> </div>
+</div>
+</div>
+</div>
+<div id="block-block-60" class="block block-block no-title">
+<div class="block-inner clearfix">
+<div class="block-title">
+</div>
+<div class="block-content">
+<div>
+
+<div id='div-gpt-ad-1491470595168-17'>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-17'); });
+</script>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+/*
+(function ($) {
+	//capture scroll any percentage
+	
+	$(window).scroll(function(){
+
+		var wintop = $(window).scrollTop(), docheight = $(document).height(), winheight = $(window).height();
+		var  scrolltrigger = 0.95;
+
+		console.log('wintop='+wintop);
+		console.log('docheight='+docheight);
+		console.log('winheight='+winheight);
+		console.log(wintop+'=='+(docheight-winheight));
+		console.log(wintop==(docheight-winheight));
+		console.log('%scrolled='+(wintop/(docheight-winheight))*100);
+
+		if  ((wintop/(docheight-winheight)) > scrolltrigger) {
+		   console.log('scroll bottom');
+		   //lastAddedLiveFunc();
+		}
+	});
+})(jQuery);
+*/
+</script>
+
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+            var _comscore = _comscore || [];
+            _comscore.push({ c1: "2", c2: "10340743", c3: "", c4: "https://www.theedgemarkets.com/article/gdex-partners-tasco-improve-logistics-delivery-services", c5: "", c6: "", c15: "" });
+            (function() {
+              var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+              s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+              el.parentNode.insertBefore(s, el);
+            })();
+          </script>
+<noscript>
+            <img src="https://b.scorecardresearch.com/p?c1=2&c2=10340743&c3=&c4=https://www.theedgemarkets.com/article/gdex-partners-tasco-improve-logistics-delivery-services&c5=&c6=&c15=&cv=2.0&cj=1" />
+          </noscript>
+<script src="//www.theedgemarkets.com/sites/all/libraries/jquery.event.move/js/jquery.event.move.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/libraries/jquery.event.swipe/js/jquery.event.swipe.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/modules/colorbox_swipe/colorbox_swipe.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/modules/statistics/statistics.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+<script src="//www.theedgemarkets.com/sites/all/modules/addthis/addthis.js?qtr7rp" type="8ee3660dea3b9edabd5f8813-text/javascript"></script>
+
+<div id='div-gpt-ad-1491470595168-18' style="display:none;">
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491470595168-18'); });
+  </script>
+</div>
+<script type="8ee3660dea3b9edabd5f8813-text/javascript">
+	  (function ($) {
+
+		  var myinterval = setInterval(function () {
+			  if ( $( "#relatead_slot" ).length ) {
+				  if (RelatedNews_NativeAd==true) {
+					  $('.knx-seealso-item-list li:first-child').remove();
+					  $('#div-gpt-ad-1491470595168-18').prependTo('#relatead_slot');
+					  $('#div-gpt-ad-1491470595168-18').css("display","block");
+
+				  } else {
+					  $('.knx-seealso-item-list li:last-child').remove();
+				  }
+				  //console.log('flag :' + RelatedNews_NativeAd);
+				  clearInterval(myinterval);
+			  }
+		  },3000);
+
+	  })(jQuery);
+
+  </script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8ee3660dea3b9edabd5f8813-|49" defer=""></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"655dbe960b147578","token":"6934e0c6dd1646b38b092a00d577bf2d","version":"2021.5.1","si":10}'></script>
+</body>
+</html>
