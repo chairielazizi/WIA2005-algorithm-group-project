@@ -109,7 +109,7 @@ def calculateSentimentV1(positive, negative):
 
 
 def calculateSentimentV2(positive, total):
-    res = positive / (positive + total)
+    res = positive / (total)
     return res
 
 
