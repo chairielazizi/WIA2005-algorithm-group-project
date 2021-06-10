@@ -1,9 +1,12 @@
 import time
 start_time = time.time()
 from timsort import timSort_dict, dictToListOfLists
+
 import sys
 sys.path.append("../WIA2005-algorithm-group-project/Problem 1") #point path dekat folder Problem 1
 from distanceMerge import findTotalDistance
+sys.path.append("../WIA2005-algorithm-group-project/Problem 2") #point path dekat folder Problem 2
+from sentimentanalysis import *
 
 def sorter(sentiment, distance, cust):
 
@@ -99,6 +102,17 @@ def calculateSum(list):
   return sum(sumList)
 
 
+#calculate the sentiment analysis
+def calculateSentimentV1(positive, negative):
+    res = positive / (positive + negative)
+    return res
+
+
+def calculateSentimentV2(positive, total):
+    res = positive / (positive + total)
+    return res
+
+
 if __name__ == "__main__":
 
     distance_c1, distance_c2, distance_c3 = {}, {}, {}
@@ -113,15 +127,23 @@ if __name__ == "__main__":
         distance_c2[courierName[i]] = calculate(total2_list[i], sum_c2)
         distance_c3[courierName[i]] = calculate(total3_list[i], sum_c3)
 
+    # sentiment = {  # cari from question 2. Since ada 3 articles, max value dia 3. Tapi these values are just random for now
+    #     'City-Link' : calculateSentimentV1(positiveWordListCountscitylink, negativeWordListCountscitylink), 
+    #     'Pos Laju': calculateSentimentV1(positiveWordListCountsposlaju, negativeWordListCountsposlaju), 
+    #     'GDEX': calculateSentimentV1(positiveWordListCountsgdex, negativeWordListCountsgdex), 
+    #     'J&T': calculateSentimentV1(positiveWordListCountsjnt, negativeWordListCountsjnt), 
+    #     'DHL': calculateSentimentV1(positiveWordListCountsdhl, negativeWordListCountsdhl)
+    #     }
     sentiment = {  # cari from question 2. Since ada 3 articles, max value dia 3. Tapi these values are just random for now
-        'City-Link' : 0.217, 
-        'Pos Laju': 1.267, 
-        'GDEX': 2.403, 
-        'J&T': 2.961, 
-        'DHL': 1.820
+        'City-Link' : calculateSentimentV2(positiveWordListCountscitylink, wordListNoStopWordsCountscitylink), 
+        'Pos Laju': calculateSentimentV2(positiveWordListCountsposlaju, wordListNoStopWordsCountsposlaju), 
+        'GDEX': calculateSentimentV2(positiveWordListCountsgdex, wordListNoStopWordsCountsgdex), 
+        'J&T': calculateSentimentV2(positiveWordListCountsjnt, wordListNoStopWordsCountsjnt), 
+        'DHL': calculateSentimentV2(positiveWordListCountsdhl, wordListNoStopWordsCountsdhl)
         }
     """
-    formula (31/44) + (a/b) + (c/d)
+    old formula = (31/44) + (a/b) + (c/d) #each article
+    new formula = (positive word / (total positive and negative))
     """
 
     # to do the overall ranking 
