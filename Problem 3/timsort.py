@@ -27,7 +27,7 @@ def insertion_sort(arr, left, right):
             arr[j], arr[j - 1] = arr[j - 1], arr[j]
             j -= 1
 
-
+# merge descending order
 def merge(arr, left, middle, right):
     len1 = middle - left + 1
     len2 = right - middle
@@ -42,7 +42,7 @@ def merge(arr, left, middle, right):
     i, j, k = 0, 0, left
     #after comparing, merge the 2 array into a larger sub array
     while i < len1 and j < len2:
-        if left_part[i] <= right_part[j]:
+        if left_part[i] >= right_part[j]:
             arr[k] = left_part[i]
             i += 1
         else:
@@ -107,6 +107,7 @@ def timSort_dict(dictionary):
         size = 2 * size
     return dictionary
 
+# insertion sort descending order
 def insertion_sort_dict(arr, left, right):
     for i in range(left + 1, right + 1):
         j = i
