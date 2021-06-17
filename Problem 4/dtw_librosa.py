@@ -1,3 +1,7 @@
+"""
+our full code implementation can be seen here 
+https://nbviewer.jupyter.org/github/chairielazizi/WIA2005-algorithm-group-project/blob/main/Problem%204/dtw_final.ipynb
+"""
 import numpy as np
 # DWT algorithm
 def dtw1(fast, normal):
